@@ -1,0 +1,12 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lección</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css"></head><body><div class="wrap">
+<nav class="bc"><a href="index.html">← 전체 목차</a> <span id="nv" style="float:right"></span></nav>
+<div class="lh" id="hd"></div><div class="tabs" id="tabs"></div>
+<section class="pane on" id="p-study"></section><section class="pane" id="p-ex"></section><section class="pane" id="p-vocab"></section><section class="pane" id="p-cul"></section></div>
+<script src="assets/app.js"></script><script>
+const n=Math.min(12,Math.max(1,+new URLSearchParams(location.search).get('n')||1));
+$('#nv').innerHTML=(n>1?`<a href="lesson.html?n=${n-1}">◀ ${n-1}과</a> `:'')+(n<12?`<a href="lesson.html?n=${n+1}">${n+1}과 ▶</a>`:'');
+const s=document.createElement('script');s.src='data/lesson'+String(n).padStart(2,'0')+'.js';s.onload=()=>renderLesson(n);document.body.append(s);
+</script></body></html>
