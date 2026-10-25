@@ -1,0 +1,6227 @@
+[
+{
+"file": "f1c5e6947a49.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Hola! Soy Carlos."
+},
+{
+"file": "c664ef67bbb5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Hola! Encantada. Me llamo María. ¿Qué tal?"
+},
+{
+"file": "856e5e4527b2.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Encantado, María. ¿De dónde eres?"
+},
+{
+"file": "af7459addac4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Soy española. Soy de Salamanca. Y tú, ¿de dónde eres?"
+},
+{
+"file": "68b2ae335779.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Soy mexicano. ¿Eres estudiante o trabajas?"
+},
+{
+"file": "adf04a380560.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Soy estudiante. Estudio Física en la universidad. ¿Y tú?"
+},
+{
+"file": "98be11685cf4.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Yo trabajo. Trabajo en un banco."
+},
+{
+"file": "8684461c6f99.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Hola! Me llamo Sohi. Soy de Corea y estudio español. Vivo en Seúl. Ahora estudio mucho español en la escuela. También estudio inglés. No hablo bien español, pero hablo bien inglés. Preparo la clase de español en casa. En clase, el profesor solo habla en español. Es muy inteligente, pero es muy amable también. Deseo hablar bien en español con el profesor."
+},
+{
+"file": "ceabf1a1177b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "reunión"
+},
+{
+"file": "48eae38d4dab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "soy"
+},
+{
+"file": "5e402875e7d2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "me llamo"
+},
+{
+"file": "a6980da97e87.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encantado"
+},
+{
+"file": "33fa06654b6a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "española"
+},
+{
+"file": "02e27e5713e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "trabajar"
+},
+{
+"file": "47c0b2a76334.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mexicano"
+},
+{
+"file": "1d5a3d46e593.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estudiante"
+},
+{
+"file": "f0492ca9ce41.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "física"
+},
+{
+"file": "06143f6f8eed.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "universidad"
+},
+{
+"file": "b71312562c39.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "banco"
+},
+{
+"file": "4d66c9840392.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estudiar"
+},
+{
+"file": "c92ae785803a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ahora"
+},
+{
+"file": "fc60ed72d602.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "también"
+},
+{
+"file": "8ad5fbd02027.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "preparar"
+},
+{
+"file": "1e4fb3641427.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "profesor"
+},
+{
+"file": "e40a98f91ea3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "muy"
+},
+{
+"file": "c3698bd640ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "amable"
+},
+{
+"file": "b1627bf42dc9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vivir"
+},
+{
+"file": "b55ae378d9e0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "escuela"
+},
+{
+"file": "43ae2ca77f71.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "inglés"
+},
+{
+"file": "b19857c28657.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "clase"
+},
+{
+"file": "048af2b1f3e9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "solo"
+},
+{
+"file": "e961eae1d46c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "inteligente"
+},
+{
+"file": "3e74a1b2267b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "desear + 동사원형"
+},
+{
+"file": "147e3092ff2c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "paquete"
+},
+{
+"file": "baa2e7ae8e58.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ascensor"
+},
+{
+"file": "daacfaccb551.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "carta"
+},
+{
+"file": "9643c9c90e27.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "limpiar"
+},
+{
+"file": "583d23748570.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "correr"
+},
+{
+"file": "1b52255b3170.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bajar"
+},
+{
+"file": "af283136df29.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "arreglar"
+},
+{
+"file": "460c32d339eb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "árbol"
+},
+{
+"file": "353adc80dfc4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "parque"
+},
+{
+"file": "bce39eb485be.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "gafas"
+},
+{
+"file": "78a6a79987f6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "puerta"
+},
+{
+"file": "07212c505498.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "portero"
+},
+{
+"file": "7719ebc1c228.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú hablas mucho."
+},
+{
+"file": "16ab39eafca7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú y yo tomamos café."
+},
+{
+"file": "daea28ccf693.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Carlos desea comprar libros."
+},
+{
+"file": "1b9285591b9a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "María y Juan estudian mucho."
+},
+{
+"file": "4f59a07f3086.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "José y yo cantamos juntos."
+},
+{
+"file": "2e23ab8ff907.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros aprendéis inglés."
+},
+{
+"file": "1738b8860910.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Usted recibe paquetes."
+},
+{
+"file": "bdbe4a963c6b.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Joaquín y tú escribís cartas."
+},
+{
+"file": "1adb12a0877e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "los chicos"
+},
+{
+"file": "2495086df143.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "las llaves"
+},
+{
+"file": "cf451f7791f1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "los autobuses"
+},
+{
+"file": "e1459a7c1427.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "los relojes"
+},
+{
+"file": "0d523947d53a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "las flores"
+},
+{
+"file": "61a4dc882366.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "los problemas"
+},
+{
+"file": "5bf28f8ec45c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De dónde es María?"
+},
+{
+"file": "2c57920a34ea.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿De dónde es Carlos?"
+},
+{
+"file": "3d7f20cd6382.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Es estudiante María?"
+},
+{
+"file": "48c6b8362346.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde estudia María?"
+},
+{
+"file": "e1a695290f21.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Dónde trabaja Carlos?"
+},
+{
+"file": "31e783a11b88.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde estudia Sohi español?"
+},
+{
+"file": "00cf85bbc06c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde vive Sohi?"
+},
+{
+"file": "96676d55407d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué estudia Sohi?"
+},
+{
+"file": "0627e9db3027.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo es el profesor de español?"
+},
+{
+"file": "cf73402676b1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué desea Sohi?"
+},
+{
+"file": "5eb5a860f18f.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Buenos días, Paula!"
+},
+{
+"file": "94da9a8c8f21.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tal?"
+},
+{
+"file": "3d393b4c772d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Muy bien, también."
+},
+{
+"file": "16fa04246f35.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Hasta luego!"
+},
+{
+"file": "1bee40dc9176.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Qué tal, Iñaki?"
+},
+{
+"file": "537d8d0838c4.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Bien, gracias. ¿Y usted?"
+},
+{
+"file": "66c6c958b47a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Muy bien."
+},
+{
+"file": "c953f3d21862.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Buenas noches, Vicenta."
+},
+{
+"file": "1f033b88e7a5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Muy bien. ¿Y usted?"
+},
+{
+"file": "01e52931884e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Adiós. Hasta mañana."
+},
+{
+"file": "e992d6c1cb14.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros somos estudiantes."
+},
+{
+"file": "b4d3a66283be.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Juan toma café."
+},
+{
+"file": "b8e15913381f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los niños corren en el parque."
+},
+{
+"file": "ed7a6354eb4f.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El gato baja del árbol."
+},
+{
+"file": "144ee64fdb62.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El hombre arregla la puerta."
+},
+{
+"file": "f5a123281880.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Candela limpia las gafas."
+},
+{
+"file": "938e71f21e6f.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Hola, ¿cómo estás?"
+},
+{
+"file": "8c54e6f2dcc0.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Genial, gracias, ¿y tú?"
+},
+{
+"file": "f7b867564e87.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Muy bien. Miguel, te presento a un amigo mío. Este es Fernando. Fernando y yo somos compañeros de trabajo."
+},
+{
+"file": "f91f4f40e4b7.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "¡Hola, Fernando! Encantado. Yo soy Miguel. ¿De dónde eres?"
+},
+{
+"file": "043f3bc4df52.mp3",
+"voice": "es-MX-JorgeNeural",
+"text": "Mucho gusto. Soy mexicano. Soy de Guadalajara. Y tú, ¿de dónde eres?"
+},
+{
+"file": "c246c1235af8.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Yo soy colombiano. ¿Eres ingeniero como Juan?"
+},
+{
+"file": "5495efe43a9b.mp3",
+"voice": "es-MX-JorgeNeural",
+"text": "Sí, soy ingeniero también. Tú, ¿qué haces?"
+},
+{
+"file": "fd3c9cc00e93.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Sí, soy violinista. Toco el violín en la orquesta municipal."
+},
+{
+"file": "b5e748343277.mp3",
+"voice": "es-MX-JorgeNeural",
+"text": "Hola, mi nombre es David. Soy de Lima, la capital de Perú. Tengo diecinueve años. Soy soltero y vivo con mi familia. En mi familia somos cinco: mi padre, mi madre, dos hermanas y yo. Hablo y escribo en inglés, francés y español. Hago ejercicio. Por eso, voy al gimnasio tres veces a la semana. Además, practico fútbol. Trabajo en un supermercado en el centro de la ciudad como cajero y voy al cine o a una discoteca con mis amigos los fines de semana."
+},
+{
+"file": "4cbe606c9849.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cafetería"
+},
+{
+"file": "14e57a63f8e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "barrio"
+},
+{
+"file": "679206dbb441.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "genial"
+},
+{
+"file": "68d2b7711432.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "te"
+},
+{
+"file": "29d578e999cb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "presentar"
+},
+{
+"file": "0bb31aaf3e20.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "compañero"
+},
+{
+"file": "4e415f78f153.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "trabajo"
+},
+{
+"file": "7fcf18c916c8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ingeniero"
+},
+{
+"file": "8b574bbfdeae.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "como"
+},
+{
+"file": "45f03a7dc88d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hacer"
+},
+{
+"file": "68a374a17cf5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "violinista"
+},
+{
+"file": "2e9d566e0ca0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tocar"
+},
+{
+"file": "f25b024f7a6d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "violín"
+},
+{
+"file": "20c70e5a4849.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "orquesta"
+},
+{
+"file": "f82266621977.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "municipal"
+},
+{
+"file": "b45845306d8f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nombre"
+},
+{
+"file": "c4ee2ac59c05.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "capital"
+},
+{
+"file": "ee92eb63a2d3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "semana"
+},
+{
+"file": "b05d1a4f059e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "soltero"
+},
+{
+"file": "fb68b5a61362.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "familia"
+},
+{
+"file": "6ed6b8a9ce1e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hermana"
+},
+{
+"file": "de1b5eae170d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "supermercado"
+},
+{
+"file": "273e583db398.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "discoteca"
+},
+{
+"file": "4df01b444866.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hacer ejercicio"
+},
+{
+"file": "c2b0fba9e9c7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "gimnasio"
+},
+{
+"file": "b61bab306e80.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "además"
+},
+{
+"file": "24bddfa88d4f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "practicar"
+},
+{
+"file": "b53098644562.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "fútbol"
+},
+{
+"file": "f7121297868f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "centro"
+},
+{
+"file": "8212840ef10f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cajero"
+},
+{
+"file": "13fd63ec40b6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "francés"
+},
+{
+"file": "7438106c4321.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cine"
+},
+{
+"file": "7d3cefe4b955.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "listo"
+},
+{
+"file": "92619f6a7060.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "moreno"
+},
+{
+"file": "b92a4f8a3574.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "enorme"
+},
+{
+"file": "acd5b17c11e5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "molesto"
+},
+{
+"file": "67c87ec4d21d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "garaje"
+},
+{
+"file": "f11396ab26e0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "enano"
+},
+{
+"file": "859846540564.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "huevo"
+},
+{
+"file": "5791ea153a3d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dedo"
+},
+{
+"file": "85bf27308ea9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "año"
+},
+{
+"file": "49cf641322e2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "grado"
+},
+{
+"file": "34b1e79c76f7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cantante"
+},
+{
+"file": "e41da371fc07.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "jugador"
+},
+{
+"file": "8327d4034d0c.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Juan es un alumno listo."
+},
+{
+"file": "46e5ad7db13c.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Guillermo I es un gran rey de Prusia."
+},
+{
+"file": "e867e9857248.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "María es una chica morena."
+},
+{
+"file": "a6bdd0f5fb59.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Pilar siempre habla en voz alta."
+},
+{
+"file": "95fc978f8cb8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cristina lleva unas cajas enormes."
+},
+{
+"file": "9004a488f006.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estas amigas."
+},
+{
+"file": "e3dc1f277f84.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ese examen."
+},
+{
+"file": "3af6f475df41.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estas ciudades."
+},
+{
+"file": "ed52a860d1c3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Aquellos años."
+},
+{
+"file": "19f91c3f14a6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Esas mesas."
+},
+{
+"file": "b9a09a9f71cd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nuestra hija estudia matemáticas."
+},
+{
+"file": "6b3fb6a2fd1f.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Ese novio suyo es antipático."
+},
+{
+"file": "200602c8ce30.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Vuestro perro corre detrás del ratón."
+},
+{
+"file": "3be7af2598e0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Venden unos libros suyos."
+},
+{
+"file": "9cff66f85789.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sus padres viven en Seúl."
+},
+{
+"file": "95d9e98a4ceb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Las chicas están molestas."
+},
+{
+"file": "573d4ce7b29a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Mis amigos y yo estamos en clase."
+},
+{
+"file": "b72c84bf90d2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Araceli es de Argentina y es profesora de español."
+},
+{
+"file": "12f77349c302.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Las casas son de María."
+},
+{
+"file": "3e2451ec0e7d.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "López vive en Madrid, pero ahora está en Seúl."
+},
+{
+"file": "b6600ab956a5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De dónde es Fernando?"
+},
+{
+"file": "d05b2add1fec.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Es Fernando violinista?"
+},
+{
+"file": "88cc7d1ed617.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué hace Miguel en la orquesta municipal?"
+},
+{
+"file": "f28b789b318b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De dónde es Miguel?"
+},
+{
+"file": "dec461e8b90c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Es Juan de Colombia?"
+},
+{
+"file": "131e94b0846a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuál es la capital de Perú?"
+},
+{
+"file": "fbe92f9ea9ea.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántos son la familia de David?"
+},
+{
+"file": "338c7db7c9f3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántos idiomas habla David?"
+},
+{
+"file": "0edef1d61005.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿En qué trabaja David?"
+},
+{
+"file": "dda0b701f649.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué hace David los fines de semana?"
+},
+{
+"file": "acbf81c2349a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Hans es de Alemania. Es alemán."
+},
+{
+"file": "15b9da0b41fa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ana es de Argentina. Es argentina."
+},
+{
+"file": "d25e2e8e690a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Pedro es de Brasil. Es brasileño."
+},
+{
+"file": "8fe0fa91d32b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mi amiga es de Chile. Es chilena."
+},
+{
+"file": "cfe3862aaf8e.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Minho es de Corea. Es coreano."
+},
+{
+"file": "6b487250e4b4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sohi es de Corea. Es coreana."
+},
+{
+"file": "868c6549e5d2.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Pierre es de Francia. Es francés."
+},
+{
+"file": "d4a3efc1c800.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sofía es de Italia. Es italiana."
+},
+{
+"file": "21641a78a5c3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yuki es de Japón. Es japonesa."
+},
+{
+"file": "6ec4b2a39569.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Carlos es de México. Es mexicano."
+},
+{
+"file": "41fb09e5f6f5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Natasha es de Rusia. Es rusa."
+},
+{
+"file": "b874d90a4b76.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Heidi es de Suiza. Es suiza."
+},
+{
+"file": "205428d4e492.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Diez huevos."
+},
+{
+"file": "1e3203a7b3e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Siete enanos."
+},
+{
+"file": "b27ae36f8371.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Dos autobuses."
+},
+{
+"file": "48f41f1afd03.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Dieciséis años."
+},
+{
+"file": "297bc9fe1d17.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cinco dedos."
+},
+{
+"file": "51176771072f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Catorce."
+},
+{
+"file": "f5b0228f3183.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Diecinueve."
+},
+{
+"file": "249a680ba127.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Doce."
+},
+{
+"file": "2a5d8423439a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ocho."
+},
+{
+"file": "7a1d6a814104.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cero."
+},
+{
+"file": "0131aa4ed069.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Como ves, el piso no es grande, pero es muy cómodo. Aquí está el baño, justo enfrente de la puerta. El salón está a la derecha del baño. Es muy acogedor. Tenemos el router aquí sobre la estantería para el internet."
+},
+{
+"file": "b8efceb8cfc3.mp3",
+"voice": "es-MX-DaliaNeural",
+"text": "¿Qué es eso al fondo del pasillo?"
+},
+{
+"file": "0d12c164dfd3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Es la cocina. Tiene una puerta pequeña hacia el patio. Tenemos tres habitaciones. Esta es de Momo, otra compañera de piso. Es japonesa y no está en casa ahora. Esta es mía. Pequeña pero bonita. Mira, esta habitación es la tuya."
+},
+{
+"file": "4dec6f1f7eee.mp3",
+"voice": "es-MX-DaliaNeural",
+"text": "Es muy amplia y elegante."
+},
+{
+"file": "328de73435df.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mi habitación es grande. Las paredes son verdes. La cama está al lado de la ventana. Tengo muchos cojines sobre la cama. También tengo unas cajas grandes al pie de la cama. Guardo muchas cosas en las cajas. Tengo una estantería a la derecha de la cama y una maceta sobre la estantería. El escritorio está a la derecha de la estantería. Es de madera. Además, tengo un reloj grande en la pared de enfrente. La lámpara es redonda y de color azul. El suelo está cubierto de alfombra."
+},
+{
+"file": "100b632e46f0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "piso"
+},
+{
+"file": "22ed05b3c4a6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "enseñar"
+},
+{
+"file": "63df4b9c834d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cómodo"
+},
+{
+"file": "23b4f4cbae81.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "justo"
+},
+{
+"file": "0b1bf03183ce.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "salón"
+},
+{
+"file": "c64ef1abc3df.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "baño"
+},
+{
+"file": "53b15069b3db.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "acogedor"
+},
+{
+"file": "15190d3dd66b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mira"
+},
+{
+"file": "a3b18c13980b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "router"
+},
+{
+"file": "f63b36cde1cf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estantería"
+},
+{
+"file": "b7045b0a61d4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pasillo"
+},
+{
+"file": "8d2d51b0c581.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cocina"
+},
+{
+"file": "b7fcc9b8c3ee.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hacia"
+},
+{
+"file": "95828b362c30.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "patio"
+},
+{
+"file": "fd823999bd5a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "habitación"
+},
+{
+"file": "c147b29154cc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "amplio"
+},
+{
+"file": "83598311198a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "elegante"
+},
+{
+"file": "c4ecc92d78ab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "al fondo de"
+},
+{
+"file": "c19325a5e935.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pared"
+},
+{
+"file": "6c8867865ef8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "verde"
+},
+{
+"file": "4add75319ddf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cama"
+},
+{
+"file": "12eea3239de5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ventana"
+},
+{
+"file": "db80c362d3bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cojín"
+},
+{
+"file": "10b31890963d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "caja"
+},
+{
+"file": "02a0d9d06270.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "al pie de"
+},
+{
+"file": "23befce47dc1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "guardar"
+},
+{
+"file": "d90e9276124f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cosa"
+},
+{
+"file": "225e7a876669.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "maceta"
+},
+{
+"file": "b94135d634d9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "escritorio"
+},
+{
+"file": "725d6c94e601.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "madera"
+},
+{
+"file": "caeef2fdca11.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "alfombra"
+},
+{
+"file": "228ed35c918c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lámpara"
+},
+{
+"file": "e9ddceccb1fc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "redondo"
+},
+{
+"file": "d22b98d4b85b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "color"
+},
+{
+"file": "e073dac350ef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "azul"
+},
+{
+"file": "a1175d93318c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "suelo"
+},
+{
+"file": "24a06807887f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cubierto de"
+},
+{
+"file": "1015c7c51dd3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nevera"
+},
+{
+"file": "a13e388d3995.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "queso"
+},
+{
+"file": "dd806a28ac17.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sillón"
+},
+{
+"file": "8864e0ee3cee.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "deprisa"
+},
+{
+"file": "f81e640430b3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "rubio"
+},
+{
+"file": "6c9bc9e85dbf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "toalla"
+},
+{
+"file": "a350439dd3d8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lavabo"
+},
+{
+"file": "044a974801ff.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "papel higiénico"
+},
+{
+"file": "c24d4bae9755.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "jabón"
+},
+{
+"file": "d6549ce5146e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bañera"
+},
+{
+"file": "3eeadf2564d2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "retrete"
+},
+{
+"file": "7b90c8e74b75.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "secador"
+},
+{
+"file": "1af9c023d0cb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De qué ciudad de Estados Unidos eres?"
+},
+{
+"file": "eb9bf59e18bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué están cansados?"
+},
+{
+"file": "b982c44c9672.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué buscas aquí?"
+},
+{
+"file": "cc6bd49137f6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué comes estos días?"
+},
+{
+"file": "06861e248f4c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde aparcamos el coche? ¿Aquí o en esa calle?"
+},
+{
+"file": "8c8a1b355363.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De dónde sale este tren?"
+},
+{
+"file": "37c63846d7e5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué no tomas un poco de zumo de naranja?"
+},
+{
+"file": "1fc8d122dce0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El libro está sobre el escritorio."
+},
+{
+"file": "5039f8580f4b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Él va delante de ellos en el camino."
+},
+{
+"file": "fad1ab5cf08c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Debajo de los árboles está Ana con su novio."
+},
+{
+"file": "4d63701a5436.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "A la izquierda de los huevos está el queso."
+},
+{
+"file": "1de48137c364.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Él vive detrás del hotel."
+},
+{
+"file": "54157649d7c0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Enfrente de mi casa está el autobús."
+},
+{
+"file": "f2bd3bcd985c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los chicos estudian al lado de sus padres."
+},
+{
+"file": "934b73aa685f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Pongo este reloj a la derecha del sofá."
+},
+{
+"file": "203acca37d20.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El globo está encima de la cabeza."
+},
+{
+"file": "a6fbe6162223.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La botella está dentro de la nevera."
+},
+{
+"file": "c2e9933bfd29.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El concierto es en el Estadio Olímpico."
+},
+{
+"file": "347328c22cd7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo hago los deberes después de cenar."
+},
+{
+"file": "5b37c2d9663d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde pongo yo estos sillones?"
+},
+{
+"file": "b132059ae579.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros salimos de casa muy temprano por la mañana."
+},
+{
+"file": "b910c8698e94.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De dónde venís vosotros tan deprisa?"
+},
+{
+"file": "90c8fb172b00.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tu hermana y tú tenéis que volver pronto a casa."
+},
+{
+"file": "c68fa510b389.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mis primos van a hacer un curso de español en Toledo."
+},
+{
+"file": "3a30ddab1e14.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué va Jihyo a España?"
+},
+{
+"file": "45a5db4076ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿En qué ciudad tiene lugar esta conversación?"
+},
+{
+"file": "fc789b7047e8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo es la habitación de Teresa?"
+},
+{
+"file": "dec673db59e0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo se llama la otra compañera de Jihyo?"
+},
+{
+"file": "258e83980793.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tienen sobre la estantería?"
+},
+{
+"file": "3340d6f34c04.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De qué color son las paredes?"
+},
+{
+"file": "724317a5deab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde están las cajas grandes?"
+},
+{
+"file": "4839ef0c40aa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Está la maceta en la estantería?"
+},
+{
+"file": "133080827b74.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De qué es el escritorio?"
+},
+{
+"file": "eb6d9d43053a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo es la lámpara?"
+},
+{
+"file": "6e9a6b2825a6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Dos más ocho son diez."
+},
+{
+"file": "4c8b8e08da4d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Quince más veintitrés son treinta y ocho."
+},
+{
+"file": "e851dc87cc98.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Diecisiete por cuatro son sesenta y ocho."
+},
+{
+"file": "e1732e7a2f11.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cuarenta y ocho entre cuarenta y ocho es uno."
+},
+{
+"file": "b5e4049d15d4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Noventa y nueve menos ochenta y dos son diecisiete."
+},
+{
+"file": "147729750ad0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cincuenta y cinco más cuarenta y cinco son cien."
+},
+{
+"file": "10c3fddc8752.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cuarenta y nueve entre siete es siete."
+},
+{
+"file": "b525131e0a3f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cien menos veintiséis son setenta y cuatro."
+},
+{
+"file": "ecbc07b09728.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Dos por treinta y siete son setenta y cuatro."
+},
+{
+"file": "0749a8bdb234.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cero más cero son cero."
+},
+{
+"file": "67fef0cbdeb4.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Dónde vives? Vivo en París."
+},
+{
+"file": "1929018eed21.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo es tu hermano? Mi hermano es rubio y alto."
+},
+{
+"file": "33515318b33b.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Por qué corréis? Corremos porque llegamos tarde a clase."
+},
+{
+"file": "1412fa64a969.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Dónde está el paquete? El paquete está en tu habitación."
+},
+{
+"file": "425d45ef1c61.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tomáis por la mañana? Tomamos zumo de naranja por la mañana."
+},
+{
+"file": "3f9ea5ad48d3.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Esta es mi casa. Está en la calle de Padilla, número diez."
+},
+{
+"file": "0ae8123ffb1c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Es muy grande!"
+},
+{
+"file": "f33a44ea28c0.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Sí, es bastante grande, pero antigua. Delante de la casa está el jardín."
+},
+{
+"file": "1f8e1f8edae1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántos árboles hay en el jardín?"
+},
+{
+"file": "cc34946a62c3.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Solo hay tres. Pero hay muchas flores."
+},
+{
+"file": "0f35ba434aac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Y ahí, ¿qué hay?"
+},
+{
+"file": "40a72bda5a4f.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Ahí hay un garaje y aquí una piscina."
+},
+{
+"file": "3f95bad75868.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Y allí?"
+},
+{
+"file": "84b2732f9529.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Una caseta del perro."
+},
+{
+"file": "8a0c9496c7b2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Es alto el alquiler?"
+},
+{
+"file": "f8c840d0e9e1.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "No. Mil euros al mes."
+},
+{
+"file": "fad39de2788f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Qué barato!"
+},
+{
+"file": "7bdeb241cfec.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Qué hora es?"
+},
+{
+"file": "2b691fdef2ce.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Son las siete y veinte."
+},
+{
+"file": "d90309366e26.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿A qué hora tiene lugar la reunión de vecinos?"
+},
+{
+"file": "4dc00b30d603.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Dicen que tiene lugar a las ocho. Entonces, ¿tenemos prisa?"
+},
+{
+"file": "bef108c7807a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Sí, la tenemos."
+},
+{
+"file": "f2df99ec967b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Tomamos un taxi?"
+},
+{
+"file": "87f74353b7c5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Vale, de acuerdo. No tardamos tanto en taxi."
+},
+{
+"file": "c27dd6ce2fd4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Menos mal que aquí hay muchos taxis libres a estas horas!"
+},
+{
+"file": "f32fa88766d1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "grande"
+},
+{
+"file": "910689fe60e2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "jardín"
+},
+{
+"file": "0661f36fdf4d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "flor"
+},
+{
+"file": "98cb20304c75.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "allí"
+},
+{
+"file": "563954bb1008.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "piscina"
+},
+{
+"file": "fd522ac9625c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "perro"
+},
+{
+"file": "27bbf3a3ed49.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "alto"
+},
+{
+"file": "3af13a24eff4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mes"
+},
+{
+"file": "220d2a3b5ac3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "antiguo"
+},
+{
+"file": "197c0c72a7fc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ahí"
+},
+{
+"file": "e260c4b387a9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "aquí"
+},
+{
+"file": "f754c183c23e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "caseta"
+},
+{
+"file": "838bf5e5cc53.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "alquiler"
+},
+{
+"file": "cca25f789463.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "euro"
+},
+{
+"file": "d0f052c4ca4a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "barato"
+},
+{
+"file": "aa99710652ea.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hora"
+},
+{
+"file": "f84e9b36774d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tener lugar"
+},
+{
+"file": "a00bdc80b78e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "acuerdo"
+},
+{
+"file": "7704f3af7104.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tardar"
+},
+{
+"file": "1be21afffd5e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "menos mal"
+},
+{
+"file": "e6153434c81b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "libre"
+},
+{
+"file": "abb7cd7ad3d4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tomar"
+},
+{
+"file": "7d48e56a79e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vale"
+},
+{
+"file": "b70eb77dcac9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vecino"
+},
+{
+"file": "bd33bb08035a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tener prisa"
+},
+{
+"file": "e700d60d3448.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "decir"
+},
+{
+"file": "bf4f5ca4d8b7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "comprar"
+},
+{
+"file": "4e8ac8f36d1f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "en voz alta"
+},
+{
+"file": "6747b2f3b86c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "enfermo/a"
+},
+{
+"file": "2e3408e84ace.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cerrado/a"
+},
+{
+"file": "9797963f6675.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "izquierda"
+},
+{
+"file": "e034c80729e1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mochila"
+},
+{
+"file": "f2aa6c860e09.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No, no os lo dejo hoy."
+},
+{
+"file": "5a85d8b3ade7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No, no os lo vendemos."
+},
+{
+"file": "5b2e6714cd48.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, os lo doy."
+},
+{
+"file": "328fe2be2057.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, nos la explica."
+},
+{
+"file": "f50c093f1757.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros hablamos francés."
+},
+{
+"file": "42240edef72f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos hablan mucho."
+},
+{
+"file": "8c6019f7cb2c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú no lo dices."
+},
+{
+"file": "90e0611448a5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros habláis bien de vuestros amigos."
+},
+{
+"file": "73573b9f145b.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Yo digo que él viene."
+},
+{
+"file": "c49d7188f8bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El bar está debajo de mi casa."
+},
+{
+"file": "91083a053fa9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "A la derecha hay un cine."
+},
+{
+"file": "6569aa02e23b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La gente está en la playa."
+},
+{
+"file": "c69b561505f5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Delante del museo hay un parque."
+},
+{
+"file": "2f0b7aef7675.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los guantes están dentro del cajón."
+},
+{
+"file": "37fa50818ec3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuándo termina la clase de español?"
+},
+{
+"file": "cdb4a1140fca.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuál de estos relojes es de oro?"
+},
+{
+"file": "02e4e3308010.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Quién te invita a la fiesta?"
+},
+{
+"file": "6c2b30d44fe1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántos días tiene una semana?"
+},
+{
+"file": "a74be5c382e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde está la casa de Vicente?"
+},
+{
+"file": "5a8a1acc98d5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo es la casa?"
+},
+{
+"file": "6c70fd4c67eb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde está el jardín?"
+},
+{
+"file": "a9d530c1bba1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué hay en el jardín?"
+},
+{
+"file": "dcce21f24e1f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Hay pocas flores en el jardín?"
+},
+{
+"file": "2b0d57812042.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Es alto el alquiler de la casa?"
+},
+{
+"file": "4942627539bd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tiene lugar a las ocho?"
+},
+{
+"file": "8cd52b5a3a9f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Tienen prisa Pedro y Ana?"
+},
+{
+"file": "e3dfe5572ce7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué toman ellos?"
+},
+{
+"file": "c50f6f74ac9a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Ellos tardan poco en taxi?"
+},
+{
+"file": "05e39aaaea39.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué Ana dice que menos mal?"
+},
+{
+"file": "320b31cb998b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hay un libro sobre la mesa."
+},
+{
+"file": "6c89d2ec86bc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tu libro está sobre la mesa."
+},
+{
+"file": "3cfcfb45b1c9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hay una tienda en la calle."
+},
+{
+"file": "7ba8a39d71da.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Las clases están a la izquierda del pasillo."
+},
+{
+"file": "b931a7cf0947.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Las ventanas están cerradas."
+},
+{
+"file": "fd28f972421a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En mi mochila hay libros."
+},
+{
+"file": "b33eaeaa2365.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La niña está enferma."
+},
+{
+"file": "6924d0bda300.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De qué color es el bosque?"
+},
+{
+"file": "9b69423e9765.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Quién te prepara el desayuno?"
+},
+{
+"file": "7f0f76ab2ae8.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Por favor! ¿Tiene una mesa libre?"
+},
+{
+"file": "8d58b379e23b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, la mesa del rincón está libre."
+},
+{
+"file": "0ce4ae29fd90.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Gracias. ¿Nos puede traer la carta, por favor?"
+},
+{
+"file": "c4778a480ea4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Aquí la tienen. ¿Qué quieren comer ustedes?"
+},
+{
+"file": "ab5b46b077f5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "De primero, una ensalada mixta. De segundo, ¿qué voy a tomar? ¿Me aconseja usted?"
+},
+{
+"file": "25e191da9fee.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Le aconsejo una paella. Es especialidad de la casa."
+},
+{
+"file": "59bfbe1f9fae.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Buena idea! Entonces, de segundo, una paella."
+},
+{
+"file": "39d265ab8bfe.mp3",
+"voice": "es-MX-DaliaNeural",
+"text": "Para mí, de primero, una sopa de verdura. De segundo, una paella, también."
+},
+{
+"file": "3398e8de4fa1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Y de postre, ¿qué quieren ustedes?"
+},
+{
+"file": "3d17f1f6bb7a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Yogur de fresa, por favor."
+},
+{
+"file": "37679f4846dc.mp3",
+"voice": "es-MX-DaliaNeural",
+"text": "Yo quiero fruta del tiempo."
+},
+{
+"file": "d2227f0a0b43.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Y para beber, ¿qué desean tomar?"
+},
+{
+"file": "339c38084a48.mp3",
+"voice": "es-MX-DaliaNeural",
+"text": "Queremos vino de la casa."
+},
+{
+"file": "175e8cb7ce3b.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Buenos días."
+},
+{
+"file": "aa5f7e776781.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Buenos días. ¿Cómo se llaman?"
+},
+{
+"file": "bae3c10c18f9.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Soy Ana, y esta es mi amiga Verónica."
+},
+{
+"file": "ff26c6b6b2a5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Son de España?"
+},
+{
+"file": "9b5aab7a6f13.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "No. Somos colombianas."
+},
+{
+"file": "0f2160688f78.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Dónde viven ustedes?"
+},
+{
+"file": "974c87e84862.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Vivimos en Madrid."
+},
+{
+"file": "2f303872fd55.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Madrid es muy grande, ¿no?"
+},
+{
+"file": "32abae152bc5.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Claro. Tiene unos tres millones de habitantes. Además hay mucho tráfico y la gente conduce muy deprisa en las carreteras. Sin embargo, nos encanta Madrid."
+},
+{
+"file": "1a60bc292453.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mesa"
+},
+{
+"file": "6692151330ba.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "rincón"
+},
+{
+"file": "f536d7559f02.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "camarero"
+},
+{
+"file": "2054fd7d2ca9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "traer"
+},
+{
+"file": "d9b6a68962df.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "querer"
+},
+{
+"file": "2c4e0cb758bc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ensalada"
+},
+{
+"file": "263560ab364f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mixto"
+},
+{
+"file": "222c1cf29ab0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "aconsejar"
+},
+{
+"file": "5c74efc8089d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "paella"
+},
+{
+"file": "828d908a2395.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "idea"
+},
+{
+"file": "02e768627bcc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "especialidad"
+},
+{
+"file": "502f438ffbd3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sopa"
+},
+{
+"file": "cc9e75ae89e1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "verdura"
+},
+{
+"file": "103e50baaf18.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "postre"
+},
+{
+"file": "cff92b9525b5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "yogur"
+},
+{
+"file": "e52303395ee1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "fruta"
+},
+{
+"file": "62fb3221fdbd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "del tiempo"
+},
+{
+"file": "8ca21f17aebb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "beber"
+},
+{
+"file": "80c0bb50401e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vino"
+},
+{
+"file": "85d122a98e42.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "fresa"
+},
+{
+"file": "6a115454c48f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "llamar"
+},
+{
+"file": "821d5cb2f71b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "colombiano"
+},
+{
+"file": "1d569c4e72be.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "claro"
+},
+{
+"file": "210b94c19193.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sin embargo"
+},
+{
+"file": "45c86f1c1cc1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "habitante"
+},
+{
+"file": "9506c85b3634.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tráfico"
+},
+{
+"file": "3761b887dce8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "gente"
+},
+{
+"file": "2af159c6af98.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "conducir"
+},
+{
+"file": "d68fb451788c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "unos"
+},
+{
+"file": "169b45f51aa6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "millón"
+},
+{
+"file": "bbe561d6f169.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encantar"
+},
+{
+"file": "fec7bfa714a6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "regalo"
+},
+{
+"file": "d668f1e84609.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "secreto"
+},
+{
+"file": "644b76ffdc75.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "caminar"
+},
+{
+"file": "747fa88e0354.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "a solas"
+},
+{
+"file": "b230dbf657f3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sal"
+},
+{
+"file": "e896bfc5d232.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cerveza"
+},
+{
+"file": "e1e3ccfcb8bc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "caramelo"
+},
+{
+"file": "6056faad2b28.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mar"
+},
+{
+"file": "072f0456929a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "película"
+},
+{
+"file": "382fa7c71fd5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tomar el sol"
+},
+{
+"file": "195b3a054285.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "escalar montañas"
+},
+{
+"file": "bf9f0bfec52a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "entrar"
+},
+{
+"file": "72194be27a79.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El camarero se la trae."
+},
+{
+"file": "5b2462a677d4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros se lo hacemos."
+},
+{
+"file": "e46bce5fae34.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Se los regalamos."
+},
+{
+"file": "ba99171dd011.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La profesora se lo explica."
+},
+{
+"file": "f7b8077448c5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Esta tarde se lo traigo."
+},
+{
+"file": "d76add187391.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nos gusta nadar en el mar."
+},
+{
+"file": "59e9d05f67f6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Le gusta el chocolate."
+},
+{
+"file": "52654a5f812f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nos gustan los conciertos."
+},
+{
+"file": "6ffcd35fafae.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nos gusta el campo."
+},
+{
+"file": "2fedcef1e481.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Me gusta tomar el sol."
+},
+{
+"file": "b69a21a0c73e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Les gusta escalar las montañas."
+},
+{
+"file": "3ae970c97f54.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué mesa está libre?"
+},
+{
+"file": "c7b3d5bd3f0c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué le aconseja a Miguel la camarera de segundo?"
+},
+{
+"file": "1139eae3c657.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué toma Teresa de primero?"
+},
+{
+"file": "a78b916a41e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Quién es Verónica?"
+},
+{
+"file": "01aa23a312a3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde viven Ana y Verónica?"
+},
+{
+"file": "c5fcc30c3d8a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Es muy grande Madrid?"
+},
+{
+"file": "3bcac97c7fe4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántos habitantes hay en Madrid?"
+},
+{
+"file": "89e2c98cbc96.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Hay poco tráfico en Madrid?"
+},
+{
+"file": "b1512770d8ef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo conduce la gente en Madrid?"
+},
+{
+"file": "867c10332ae3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ciento uno."
+},
+{
+"file": "5a55650d40f0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Doscientos."
+},
+{
+"file": "ac0dbd8235c1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Quinientos."
+},
+{
+"file": "57fecf90f2b0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Setecientos."
+},
+{
+"file": "b7881063032e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Novecientos."
+},
+{
+"file": "e44b5941342e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mil."
+},
+{
+"file": "15ce62b0b631.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mil uno."
+},
+{
+"file": "0ae966118220.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Diez mil."
+},
+{
+"file": "2967f950fcfd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cien mil."
+},
+{
+"file": "90d4693c7da7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Un millón."
+},
+{
+"file": "d47ca4fd161e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Veintiún hombres."
+},
+{
+"file": "60bdb4e648a9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Veintiuna casas."
+},
+{
+"file": "a836d205ff74.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Trescientos libros."
+},
+{
+"file": "9f8b4d356d8a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cuatrocientas muchachas."
+},
+{
+"file": "9613e7f44235.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cinco millones de soldados."
+},
+{
+"file": "93f57414f01b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo quiero estudiar español."
+},
+{
+"file": "5def7a55f28d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros queremos estudiar español."
+},
+{
+"file": "2ce30dbdb043.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Puedo entrar aquí?"
+},
+{
+"file": "169884d27fbe.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Me puede ayudar usted?"
+},
+{
+"file": "80adaff141bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros no podéis venir hoy."
+},
+{
+"file": "0bb32d17a28d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos quieren vino de la casa."
+},
+{
+"file": "3d5a93e6474d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú quieres una paella."
+},
+{
+"file": "696725aa59f2.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Quieres venir al cine conmigo este sábado?"
+},
+{
+"file": "0fc4a45b4ad5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Lo siento. Es que no tengo tiempo. Ese día tengo que preparar un examen."
+},
+{
+"file": "7a359f8d23fe.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Entonces, ¿qué haces normalmente los fines de semana?"
+},
+{
+"file": "db2d627d2d46.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Descanso sin hacer nada porque de lunes a viernes siempre estoy cansada."
+},
+{
+"file": "085025d0afe3.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Por qué?"
+},
+{
+"file": "0ef44cbdfc99.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Todos los días me levanto a las seis de la mañana. Me lavo la cara, luego desayuno con mucha prisa. Salgo de mi casa a las siete. Llego a la escuela a las siete y media. Las clases empiezan a las ocho y terminan a las tres de la tarde. Regreso a casa a las tres y media. Me ducho, y hago los deberes hasta las seis. Ceno con mi familia y después estudio. Después de limpiarme los dientes me acuesto a las once de la noche."
+},
+{
+"file": "0b155ad74e16.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Qué barbaridad!"
+},
+{
+"file": "2a02ab1bf061.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Dos españoles empiezan a conocerse en una fiesta, o en un tren, o en la playa, o en un bar... «¿De dónde es usted?» o «¿De dónde eres?» son, casi siempre, las primeras preguntas. Luego, lo explican con muchos detalles. Por ejemplo: «Yo soy aragonés, pero vivo en Cataluña desde el 99... Mis padres son de Teruel, tengo treinta años y bla, bla, bla.» Y es que cada región española es muy diferente: la historia, las tradiciones, la lengua, la economía, el paisaje, las maneras de vivir, incluso el aspecto físico de las personas."
+},
+{
+"file": "26783b8a8d9a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cansado"
+},
+{
+"file": "a8c634d9ed12.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "empezar"
+},
+{
+"file": "0a1bf33a1d06.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "regresar"
+},
+{
+"file": "f1d7ce8c6bb6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "deber"
+},
+{
+"file": "027bff2a3042.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "normalmente"
+},
+{
+"file": "9b1e72f52b3f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "fin de semana"
+},
+{
+"file": "01575d661276.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "limpiarse"
+},
+{
+"file": "92dd9ec8df7c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "acostarse"
+},
+{
+"file": "be336269aceb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "barbaridad"
+},
+{
+"file": "0e45cd7bd496.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sábado"
+},
+{
+"file": "d36b8ef31122.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lo siento"
+},
+{
+"file": "7827a0de4640.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "examen"
+},
+{
+"file": "79f39e9404f4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cenar"
+},
+{
+"file": "437f23551de8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ducharse"
+},
+{
+"file": "ba91eb0d75c6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lavarse"
+},
+{
+"file": "018e8da7be86.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "descansar"
+},
+{
+"file": "4568e483fdcd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lunes"
+},
+{
+"file": "f67098b7fc8a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "viernes"
+},
+{
+"file": "6c5a03489919.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "diente"
+},
+{
+"file": "5dafcd5f4b1e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "empezar a + 동사원형"
+},
+{
+"file": "a60994a0f71d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tren"
+},
+{
+"file": "57bf49b249be.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "casi"
+},
+{
+"file": "f128d74e476b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "luego"
+},
+{
+"file": "02eac11a66c6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "detalle"
+},
+{
+"file": "3904e2fc273d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "por ejemplo"
+},
+{
+"file": "04a5898df227.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "región"
+},
+{
+"file": "29e66e986c87.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "diferente"
+},
+{
+"file": "17df269a1903.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "historia"
+},
+{
+"file": "c9f1e44afbc9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tradición"
+},
+{
+"file": "9da09f234fb7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lengua"
+},
+{
+"file": "4e71d5536384.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "economía"
+},
+{
+"file": "6122acfc9247.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "paisaje"
+},
+{
+"file": "e40246b3a165.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "manera"
+},
+{
+"file": "0a770fc9e43c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "incluso"
+},
+{
+"file": "de1ab6172b44.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "aspecto"
+},
+{
+"file": "11677f9dd488.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "físico"
+},
+{
+"file": "bda716a526fe.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "salud"
+},
+{
+"file": "d26f322f1b98.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "frío/a"
+},
+{
+"file": "d7e04ed8fc05.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "paciencia"
+},
+{
+"file": "ba9321b7c651.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "temprano"
+},
+{
+"file": "763a6f2a389b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ver"
+},
+{
+"file": "d401a173a4f1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "autobús"
+},
+{
+"file": "dc39037a5e9c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vender"
+},
+{
+"file": "84107f74e02a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "apartamento"
+},
+{
+"file": "e0c4deb88fb6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "periódico"
+},
+{
+"file": "a331370193ef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ropa"
+},
+{
+"file": "220d79a236d3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nos lavamos con agua fría."
+},
+{
+"file": "aef96cd85e90.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Usted se despierta muy temprano."
+},
+{
+"file": "1a03c696c1e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Os bañáis los domingos."
+},
+{
+"file": "500bc7f3fc1a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos se visten deprisa."
+},
+{
+"file": "1cce8d56eb74.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Me siento en esta silla."
+},
+{
+"file": "507cd77be4c8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Te acuestas muy tarde."
+},
+{
+"file": "a5e08c93f24c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Usted tiene que trabajar mucho."
+},
+{
+"file": "4f8d308beb9f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros tenéis que tener más paciencia."
+},
+{
+"file": "c17ff0ef295f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú tienes que lavarte los dientes todos los días."
+},
+{
+"file": "d09299e20806.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los niños tienen que ver menos la televisión."
+},
+{
+"file": "9c87dcf4246b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella pierde siempre el autobús."
+},
+{
+"file": "92754a0eafba.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros queremos vender nuestro apartamento."
+},
+{
+"file": "16621afcfd1a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ustedes no entienden el problema."
+},
+{
+"file": "7cae7971dca7.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Raúl comienza a correr."
+},
+{
+"file": "fca0c1a3caf6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos lo niegan."
+},
+{
+"file": "9968aeff7668.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo pienso estudiar español con Isabel."
+},
+{
+"file": "b7c1e8133e5c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Todos los días me levanto a las seis de la mañana."
+},
+{
+"file": "5626de956170.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo me lavo la cara."
+},
+{
+"file": "bf1c403b3736.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Después me ducho."
+},
+{
+"file": "6e1454876033.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cristina se levanta siempre de mal humor."
+},
+{
+"file": "d61408b04baa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "María se pinta las uñas."
+},
+{
+"file": "5135a762bcdd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Verónica se sienta en un banco con su hijo."
+},
+{
+"file": "bebd69fa94fc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los niños se limpian los dientes."
+},
+{
+"file": "da1ac2368ab0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Luis se afeita todos los días."
+},
+{
+"file": "f5e4b1173bba.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros nos lavamos las manos."
+},
+{
+"file": "864f28b05178.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros os acostáis muy tarde."
+},
+{
+"file": "8d0ecdd8315f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tiene que hacer Teresa este sábado?"
+},
+{
+"file": "03babb61a9fb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo está Teresa de lunes a viernes?"
+},
+{
+"file": "544259db428f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Con quién cena Teresa?"
+},
+{
+"file": "f446da5988f3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde empiezan a conocerse los dos españoles?"
+},
+{
+"file": "8929da73c5bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuáles son las primeras preguntas?"
+},
+{
+"file": "b8578a6647a9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Las maneras de vivir son diferentes en cada región española?"
+},
+{
+"file": "22c3e31c6237.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿La religión es muy diferente en cada región española?"
+},
+{
+"file": "4bb6c00a187b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Quiero comprar una blusa para mi fiesta de cumpleaños. ¿Me sienta bien esta blusa rosa, Sofía?"
+},
+{
+"file": "6bc2261d7fc4.mp3",
+"voice": "es-MX-DaliaNeural",
+"text": "Sí, te queda muy bien, Marina. Realmente me gusta. ¿Cuánto cuesta?"
+},
+{
+"file": "a3e4f09f3d24.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Voy a preguntarle a la dependienta. ¡Perdón!"
+},
+{
+"file": "5b356ddece11.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "¿Puedo ayudarla, señorita?"
+},
+{
+"file": "1cebfc4a6c39.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, ¿cuánto cuesta esta blusa?"
+},
+{
+"file": "d1b7357e054e.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Exactamente cincuenta euros."
+},
+{
+"file": "87f87204ab2e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Hay alguna falda adecuada para la blusa?"
+},
+{
+"file": "0efc1c4e18f9.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Sí. ¿Qué le parece esta blanca? ¿Quiere probársela?"
+},
+{
+"file": "61010dacb9e6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Me encanta. No es necesario probármela. Esa es mi talla. Me llevo la blusa y la falda."
+},
+{
+"file": "8d09d7df27e7.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Mira estos abrigos de cuero. ¡Qué bonitos!"
+},
+{
+"file": "0c7a0340d434.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No me gustan mucho, me gustan más los abrigos vaqueros."
+},
+{
+"file": "b32ca882f500.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Y estos? ¿Qué te parece este negro?"
+},
+{
+"file": "4338b6dfd842.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No está mal, pero prefiero aquel verde. Me parece más moderno. ¿Por qué no te los pruebas?"
+},
+{
+"file": "a0b309325b9a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Puedo probarme estos abrigos?"
+},
+{
+"file": "02d678680111.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Claro que sí."
+},
+{
+"file": "f119961804e4.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Cómo me queda el negro?"
+},
+{
+"file": "c8927a074d9c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Un poco estrecho, ¿no?"
+},
+{
+"file": "d60d477f2541.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Y este verde?"
+},
+{
+"file": "4f916e5c369e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ese te queda muy bien y no es caro."
+},
+{
+"file": "127975936ea2.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Vale. Me lo llevo."
+},
+{
+"file": "65791b32136b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tienda de ropa"
+},
+{
+"file": "37f22a0bf780.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sección"
+},
+{
+"file": "4efa21f0929e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "planta baja"
+},
+{
+"file": "b580b450133d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dependienta"
+},
+{
+"file": "0ebf8cca11b5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "alguno"
+},
+{
+"file": "ad3bf6156cfc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "falda"
+},
+{
+"file": "71e5176c3b3f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "acompañar"
+},
+{
+"file": "0e1afcde87ad.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "parte"
+},
+{
+"file": "138d01fd486a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sentar"
+},
+{
+"file": "2b0b7fd53797.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "avenida"
+},
+{
+"file": "1e976780fe45.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "blusa"
+},
+{
+"file": "30226ccdeab3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "camisa"
+},
+{
+"file": "d536f25e85c6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "quedar"
+},
+{
+"file": "f6ce34dc2ad3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sol"
+},
+{
+"file": "db3e7b9d9e97.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "adecuado"
+},
+{
+"file": "d656818cf18a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "otro"
+},
+{
+"file": "9e070de48a6d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "probarse"
+},
+{
+"file": "11e38d9b4e13.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "llevar(se)"
+},
+{
+"file": "d8d212a3613f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "buscar"
+},
+{
+"file": "8b3dfe40423b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "abrigo"
+},
+{
+"file": "17c2333ef900.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vaquero"
+},
+{
+"file": "c651e64ead11.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "parecer"
+},
+{
+"file": "0ad10b7664aa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "un poco"
+},
+{
+"file": "528b550dfaf8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estrecho"
+},
+{
+"file": "dc3f15a99f68.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cuero"
+},
+{
+"file": "501462d12123.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "preferir"
+},
+{
+"file": "dcff4df21f59.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "negro"
+},
+{
+"file": "c4b8b7c2ce76.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "moderno"
+},
+{
+"file": "077e46486014.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "medias"
+},
+{
+"file": "8941a04eb77e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "corbata"
+},
+{
+"file": "2691c1054b89.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "traje"
+},
+{
+"file": "a81d8249328b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vestido"
+},
+{
+"file": "861e3107c304.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bufanda"
+},
+{
+"file": "9ea525c17297.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "revista de moda"
+},
+{
+"file": "f68ee46d253d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cajas"
+},
+{
+"file": "0f121afcea3f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "centro comercial"
+},
+{
+"file": "81d661d5f3fa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bañador"
+},
+{
+"file": "b7447241189f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dejar/dar propina"
+},
+{
+"file": "cfc010d972bc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hacer la compra"
+},
+{
+"file": "8b961ba98818.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sacar dinero"
+},
+{
+"file": "19ecf671c826.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Pido un café."
+},
+{
+"file": "ea2b147e9e0e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Se viste con ropa de verano."
+},
+{
+"file": "06db28e62b29.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Mides un metro setenta."
+},
+{
+"file": "b884c8e5e836.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El niño repite la canción."
+},
+{
+"file": "fba78f83b1a5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué nivel de italiano siguen ustedes?"
+},
+{
+"file": "19272e3e4a9b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La camiseta te sienta muy bien."
+},
+{
+"file": "db12bfebe5f7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El profesor da un trabajo a los estudiantes."
+},
+{
+"file": "b77d6875a64e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Pregunto a su hijo cómo se llama."
+},
+{
+"file": "bbd6bf145fd6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Esta camisa te queda grande."
+},
+{
+"file": "636626b2a764.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Os gusta la comida mexicana."
+},
+{
+"file": "56edd77f349d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Sabéis quién viene esta tarde?"
+},
+{
+"file": "1f6e7403ee43.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Conoces México, D. F.?"
+},
+{
+"file": "8fa0540cce18.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Sabe usted hablar chino?"
+},
+{
+"file": "a885260da3fd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Sabemos dónde está Laura?"
+},
+{
+"file": "bc49fcd2f025.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Conoces al marido de Concha?"
+},
+{
+"file": "af7f5814b2be.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde están Marina y Sofía?"
+},
+{
+"file": "5388f740070b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué le apetece comprar a Marina?"
+},
+{
+"file": "cc828e3f1c5f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuánto vale la blusa que quiere comprar Marina?"
+},
+{
+"file": "3d8cf4988fc9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué desea comprar Roberto?"
+},
+{
+"file": "b4f0aeba5f14.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde están Roberto y Rosa?"
+},
+{
+"file": "43091eabe520.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué prefiere el verde Rosa?"
+},
+{
+"file": "8ad0608c6a1a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué decide Roberto después de probarse los abrigos?"
+},
+{
+"file": "18ac4fad5b76.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué pregunta Roberto al dependiente?"
+},
+{
+"file": "71097fcbafdc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Va a la quinta planta."
+},
+{
+"file": "662dd61b6e85.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Este es el sexto libro que leo este mes."
+},
+{
+"file": "a4add130a4ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Juana es la primera en el colegio."
+},
+{
+"file": "8ebd6ae298c3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Es la cuarta vez que te lo dice."
+},
+{
+"file": "e21aaba8f58e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vive en el primer piso."
+},
+{
+"file": "06161e6589ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El segundo libro."
+},
+{
+"file": "133352e3de03.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La segunda hija."
+},
+{
+"file": "5087012612a8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Primero, quiero dar las gracias a todos los invitados."
+},
+{
+"file": "9822e7298ab6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo elijo."
+},
+{
+"file": "b4695f1fcfbe.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú eliges."
+},
+{
+"file": "a3f33f47d7cb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella elige."
+},
+{
+"file": "e717ab2132b3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros elegimos."
+},
+{
+"file": "788ead3871f4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros elegís."
+},
+{
+"file": "33e398034cdf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos eligen."
+},
+{
+"file": "e7e1f2a60eb0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo sigo."
+},
+{
+"file": "1ae66450f0cb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú sigues."
+},
+{
+"file": "60f4fa787c7b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella sigue."
+},
+{
+"file": "ca3188068afb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros seguimos."
+},
+{
+"file": "436b105cd5f4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros seguís."
+},
+{
+"file": "a2d8615a34cf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos siguen."
+},
+{
+"file": "30a4e19571d7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo sirvo."
+},
+{
+"file": "5e524105c494.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú sirves."
+},
+{
+"file": "18fb038242bd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella sirve."
+},
+{
+"file": "0afd69dcba21.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros servimos."
+},
+{
+"file": "7cec7d6de425.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros servís."
+},
+{
+"file": "3731592b2e04.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos sirven."
+},
+{
+"file": "4ec264f437ea.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo repito."
+},
+{
+"file": "17f983059411.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú repites."
+},
+{
+"file": "3d5844bd748d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella repite."
+},
+{
+"file": "a0d5b6acd65f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros repetimos."
+},
+{
+"file": "adee07ab332c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros repetís."
+},
+{
+"file": "b11e28962ae3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos repiten."
+},
+{
+"file": "fb94be24dc9e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuánto le debo? Tres euros."
+},
+{
+"file": "047a4d3ff9a7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo va a pagar? Con tarjeta."
+},
+{
+"file": "c6779d44ca32.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Me puedo probar esta camisa? Claro. Los probadores están al lado del espejo."
+},
+{
+"file": "1df9bbdbb239.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué desea? Quiero unos pantalones."
+},
+{
+"file": "d0ada5286ac5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De qué talla es? Creo que es la 42."
+},
+{
+"file": "30f9382c21ba.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Qué buen tiempo!"
+},
+{
+"file": "7ca57f227336.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, muy buen tiempo. Con este tiempo quiero bañarme un poco en el mar."
+},
+{
+"file": "608519e88797.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Después de bañarte, ¿qué te apetece hacer? ¿Qué tal si vamos a tomar algo en un bar cercano?"
+},
+{
+"file": "0349fe48af51.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo tengo ganas de tomar una cerveza bien fría."
+},
+{
+"file": "ad98a759cd0e.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿De verdad? He oído que normalmente no la tomas."
+},
+{
+"file": "034e77f11f7b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No, pero esta vez quiero."
+},
+{
+"file": "7b1499cecda1.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Está bien. Como estoy tomando el sol y vas a bañarte, salimos de aquí dentro de media hora."
+},
+{
+"file": "1f0ef57c93ce.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "De acuerdo. Por cierto, ¿qué te parece si invito a una amiga mía para tomar algo todos juntos?"
+},
+{
+"file": "8450c0e826f5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "No hay problema. ¡Cuanto más, mejor!"
+},
+{
+"file": "5d02134dc216.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Gracias."
+},
+{
+"file": "13ae5ddf405e.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Disculpa! ¿Eres Emma?"
+},
+{
+"file": "38fa82a037b6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, soy Emma."
+},
+{
+"file": "02e317fefc3b.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Desde luego. ¿No te acuerdas de mí? Soy Alberto."
+},
+{
+"file": "d62d82902441.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Ah! Alberto, ¡cuánto tiempo sin vernos!"
+},
+{
+"file": "75678da01540.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Qué haces aquí? Trabajo en una empresa internacional y estoy yendo al banco."
+},
+{
+"file": "2084d1633089.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "También trabajo en una empresa y voy al banco. ¡Qué casualidad!"
+},
+{
+"file": "1454b4331bbe.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Es cierto. Tenemos que vernos para saber más de nosotros. ¿Salimos este fin de semana?"
+},
+{
+"file": "33ef9cbe3d7c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Lo siento, no puedo. Es que tengo una cita con el doctor."
+},
+{
+"file": "55379d5a8891.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Entonces, ¿el próximo fin de semana?"
+},
+{
+"file": "c3c6addf25c4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Está bien. ¿A qué hora y dónde quedamos?"
+},
+{
+"file": "07cda334bbf5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El próximo sábado a las ocho en la entrada de la estación de Atocha."
+},
+{
+"file": "d8a6b0b2e712.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vale, gracias."
+},
+{
+"file": "769988265819.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tiempo"
+},
+{
+"file": "43a184cb1c28.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "apetecer"
+},
+{
+"file": "975c8ff665f6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cercano"
+},
+{
+"file": "35c372abdec6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "escuchar"
+},
+{
+"file": "85e3a336ee6b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vez"
+},
+{
+"file": "c59d6dc47760.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "salir"
+},
+{
+"file": "7657558e4c8b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "todo"
+},
+{
+"file": "dfffc266de30.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "problema"
+},
+{
+"file": "e23d23955762.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bañarse en el mar"
+},
+{
+"file": "f2fa08c61168.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tener ganas de"
+},
+{
+"file": "73c86af270fa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "de verdad"
+},
+{
+"file": "8a5efb613fc2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "en general"
+},
+{
+"file": "3e8a5d6d46e1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "por cierto"
+},
+{
+"file": "9573e98af895.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Cuanto más, mejor!"
+},
+{
+"file": "c36a46020cac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "desde luego"
+},
+{
+"file": "6ce8d4891a1c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "empresa"
+},
+{
+"file": "20b237486c66.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cierto"
+},
+{
+"file": "7803b6b01dca.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cita"
+},
+{
+"file": "08a8a8a91798.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "entrada"
+},
+{
+"file": "8345ac09533a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "acordarse de"
+},
+{
+"file": "223fc46560ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "casualidad"
+},
+{
+"file": "e2c880212593.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "quedar con"
+},
+{
+"file": "ff9825b641bf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estación"
+},
+{
+"file": "4ec53eebbbe2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "exposición"
+},
+{
+"file": "795860e578cc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "plaza"
+},
+{
+"file": "6db7e2ee59f7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "monumento"
+},
+{
+"file": "9a90441c5bcf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "aeropuerto"
+},
+{
+"file": "5beeb14696c8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "citar"
+},
+{
+"file": "76e6a747344c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ir de vacaciones"
+},
+{
+"file": "b190871f351f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "salida"
+},
+{
+"file": "636e23d8c1f9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "reserva"
+},
+{
+"file": "884c9e854bbf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pasaporte"
+},
+{
+"file": "22e780bc246c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hablando."
+},
+{
+"file": "8ddd07c3186b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estudiando."
+},
+{
+"file": "469fba87c33e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Jugando."
+},
+{
+"file": "46e543ba7427.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Comenzando."
+},
+{
+"file": "46a0483a0ad7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sintiendo."
+},
+{
+"file": "afe08b16726c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sentando."
+},
+{
+"file": "895776844710.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Creyendo."
+},
+{
+"file": "7262229f4dcc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Huyendo."
+},
+{
+"file": "fe1111b22b0b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Escribiendo."
+},
+{
+"file": "49cc6901e5cc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vendiendo."
+},
+{
+"file": "7c3700c17c81.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estoy casándome con ella."
+},
+{
+"file": "dd773ea83cae.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Está leyendo el periódico."
+},
+{
+"file": "8407c5270a46.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estamos hablando por teléfono de la tarea."
+},
+{
+"file": "ffe0426310e0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Están escribiendo un libro."
+},
+{
+"file": "9002a1df88b1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los alumnos están jugando al fútbol."
+},
+{
+"file": "169371210c55.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Quiero venderle la casa."
+},
+{
+"file": "b581e2e71b2c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No quiere regalarle nada."
+},
+{
+"file": "346924b671db.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Está ofreciéndoles una cena."
+},
+{
+"file": "fa84e3f0c9fc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Necesito devolverle el dinero."
+},
+{
+"file": "8bcf52ea6a53.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estoy mandándole un libro."
+},
+{
+"file": "722bb8bcb067.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "morir. Yo muero."
+},
+{
+"file": "1a1c9272f3ff.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "entender. Yo entiendo."
+},
+{
+"file": "1b99d63426eb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "servir. Yo sirvo."
+},
+{
+"file": "805323c022f2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "contar. Yo cuento."
+},
+{
+"file": "db4ac6694a5a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "querer. Yo quiero."
+},
+{
+"file": "1039422450fd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encender. Yo enciendo."
+},
+{
+"file": "bbdfe69ee6d3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "llover. Llueve."
+},
+{
+"file": "b8f19b828886.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mover. Yo muevo."
+},
+{
+"file": "41df917d0c9a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "seguir. Yo sigo."
+},
+{
+"file": "e0402e4627ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "poder. Yo puedo."
+},
+{
+"file": "bdf70ced7a7c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué quiere tomar Eva?"
+},
+{
+"file": "50f02b81b9ee.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué está haciendo Sergio?"
+},
+{
+"file": "1a1e4ced54ad.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántas personas van a reunirse?"
+},
+{
+"file": "0537e0f04726.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde están Eva y Sergio?"
+},
+{
+"file": "7173d7c3c672.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tiempo hace?"
+},
+{
+"file": "85c24ae82768.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿A qué se dedica Alberto?"
+},
+{
+"file": "7a0de1ef25ec.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Adónde van Alberto y Emma?"
+},
+{
+"file": "bd22a809d58d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué no quedan este fin de semana?"
+},
+{
+"file": "9bcb3de4905f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde van a quedar ellos?"
+},
+{
+"file": "8c4f0357cd28.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Con quién tiene la cita Emma?"
+},
+{
+"file": "96ab3ee933f0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué estás leyendo?"
+},
+{
+"file": "cdf393077afd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estoy leyendo el libro de Mario Vargas Llosa."
+},
+{
+"file": "96dc49af271e.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Alberto está yendo al banco."
+},
+{
+"file": "69cdbd1dd096.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estamos estudiando en la clase."
+},
+{
+"file": "be82aa2b73ad.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estáis jugando en la piscina."
+},
+{
+"file": "66b6711a3412.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estoy bailando tango con mi novia."
+},
+{
+"file": "7a57e21bb7b7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Está escuchando música clásica."
+},
+{
+"file": "d9dc22284428.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El papa Francisco está besando a un niño."
+},
+{
+"file": "e47c72bab9ea.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En el norte del país sigue lloviendo."
+},
+{
+"file": "7112f48702bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo encuentro."
+},
+{
+"file": "f003402be221.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú encuentras."
+},
+{
+"file": "99a014f2b4e8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella encuentra."
+},
+{
+"file": "35e2100b41d7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros encontramos."
+},
+{
+"file": "b45f56d7d8c4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros encontráis."
+},
+{
+"file": "614f3fa4ea55.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos encuentran."
+},
+{
+"file": "3fc48a69873b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo puedo."
+},
+{
+"file": "9a4b90ac4831.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú puedes."
+},
+{
+"file": "91fe49546fd5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella puede."
+},
+{
+"file": "fc177162676c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros podemos."
+},
+{
+"file": "12cb9288b679.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros podéis."
+},
+{
+"file": "53d3e8e47cff.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos pueden."
+},
+{
+"file": "8d1b9280675e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo duermo."
+},
+{
+"file": "e60df5fee89a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú duermes."
+},
+{
+"file": "5e224ab24367.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ella duerme."
+},
+{
+"file": "bbd60a46a108.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros dormimos."
+},
+{
+"file": "425d92e8d1a5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros dormís."
+},
+{
+"file": "e7405772e173.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos duermen."
+},
+{
+"file": "a0323173f2be.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hijo, ¿qué vas a hacer hoy?"
+},
+{
+"file": "f5e7ecec1559.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Pues voy a jugar un partido de fútbol con mis amigos."
+},
+{
+"file": "d23ce82ef843.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Pero está lloviendo."
+},
+{
+"file": "fa6053c6122b.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Sí, pero según el pronóstico del tiempo, por la tarde va a dejar de llover y va a hacer mucho calor."
+},
+{
+"file": "393256d194d0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Y qué hacen tus amigos en casa cuando llueve?"
+},
+{
+"file": "ead470e96cc2.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Muchas cosas, mami. Algunos estudian, otros leen y otros juegan con el computador."
+},
+{
+"file": "6ef456abd396.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Bueno, pues como está lloviendo y todavía es temprano, ¿qué tal si tú y yo vamos a hacer la compra?"
+},
+{
+"file": "b5f1afe3aa5a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Buena idea, mami. ¡Vamos! Te acompaño."
+},
+{
+"file": "d1be1db3d6a7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Voy a hacer la lista de la compra."
+},
+{
+"file": "ba02e0b3395d.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Yo necesito unas botellas de agua porque cuando juego al fútbol y hace calor, me da sed."
+},
+{
+"file": "cfc2b09fe041.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Por fin, mañana es el día: el del viaje de estudios a Taiwán."
+},
+{
+"file": "60f3beb8968b.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Sí. Bla, bla, bla."
+},
+{
+"file": "98812fd2082e.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Según las noticias, mañana va a hacer muy buen tiempo allá."
+},
+{
+"file": "6dc73fcb3a74.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿De veras? Aquí va a haber muchas nubes."
+},
+{
+"file": "4db5ed1d374f.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "El viaje va a ser muy interesante."
+},
+{
+"file": "53a0dc5db0a9.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Sí, sí. Estoy de acuerdo. Pero necesito su ayuda. Primero, mañana todos los alumnos tienen que estar a eso de las ocho de la mañana en el Aeropuerto Internacional de Incheon."
+},
+{
+"file": "6a9e6f4faf15.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Por supuesto. Podemos hacerlo sin problema."
+},
+{
+"file": "d9a967c7802a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Segundo, deben tener su pasaporte en su mano. No lo olviden. Es muy importante. Sin su pasaporte, no pueden viajar a ningún país."
+},
+{
+"file": "0c449baac85b.mp3",
+"voice": "es-CO-SalomeNeural",
+"text": "Entendido. Mañana a las ocho de la mañana con el pasaporte en la mano."
+},
+{
+"file": "8ea63d704664.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Voy a acostarme temprano. Estoy muy emocionada."
+},
+{
+"file": "653536eb4481.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "campo de fútbol"
+},
+{
+"file": "dfd047df3e58.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "llover"
+},
+{
+"file": "2e536a7e4fd7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "a partir de"
+},
+{
+"file": "22fc8f8e4d2d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "no importa"
+},
+{
+"file": "fae8d9b0082f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ir a la compra"
+},
+{
+"file": "5f19cd94bca9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cambiarse de ropa"
+},
+{
+"file": "34c737843b68.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "botella"
+},
+{
+"file": "ef5eb717ca7f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "entonces"
+},
+{
+"file": "9d76dceaf860.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dejar de"
+},
+{
+"file": "13a735c5b597.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "antes de"
+},
+{
+"file": "819bee762ff5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "lista"
+},
+{
+"file": "524c3bb8d938.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "agua"
+},
+{
+"file": "4e3d2807130c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "por fin"
+},
+{
+"file": "b128c3a69207.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "según"
+},
+{
+"file": "0bd4bcc500e2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "allá"
+},
+{
+"file": "eeae2ce64e6d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estar de acuerdo"
+},
+{
+"file": "a96aa06bd692.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "segundo"
+},
+{
+"file": "087d66eb7494.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "por supuesto"
+},
+{
+"file": "1abd9c337ab5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "emocionado"
+},
+{
+"file": "75d4d4112169.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Aeropuerto Internacional de Incheon"
+},
+{
+"file": "cbb648e8be5a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "viaje de estudios"
+},
+{
+"file": "a7f9716092dd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "noticia"
+},
+{
+"file": "8537e381662f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nube"
+},
+{
+"file": "f1a5fcd4b000.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ayuda"
+},
+{
+"file": "cfa8ff2aebaa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "a eso de"
+},
+{
+"file": "b64cea8f60ba.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sin problema"
+},
+{
+"file": "a9274b5c7188.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "billete de ida y vuelta"
+},
+{
+"file": "46dd0cc1814a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mapa"
+},
+{
+"file": "ec30d7a03898.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "avión"
+},
+{
+"file": "38532b42b1ef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bolsa plástica"
+},
+{
+"file": "1ec6e552060b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "obra de teatro"
+},
+{
+"file": "ff9903c86f3f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "campo"
+},
+{
+"file": "1a465fa361b4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "playa"
+},
+{
+"file": "bdada2426996.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bosque"
+},
+{
+"file": "d9e5caea76e3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pasear"
+},
+{
+"file": "a92479653112.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La obra de teatro va a empezar pronto."
+},
+{
+"file": "afe0e20a5d67.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros vamos a llegar a tiempo al aeropuerto."
+},
+{
+"file": "f60d305c073e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Julia va a estudiar mucho."
+},
+{
+"file": "21a43e1e5ddc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mis alumnos van a jugar al baloncesto."
+},
+{
+"file": "c3b4a6854ade.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mamá va a hacer la cama en vez de mí."
+},
+{
+"file": "0f9044cafc50.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú vas a comprar unos dulces."
+},
+{
+"file": "5b3e840eed9e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Llueve mucho en tu ciudad?"
+},
+{
+"file": "d7e4d2741ba3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuál es la temperatura media de tu país?"
+},
+{
+"file": "2f36f667a65a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿A qué temperatura estamos?"
+},
+{
+"file": "8fafc0c9dbd5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿No nieva en tu ciudad?"
+},
+{
+"file": "a1c20d9375b7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Hace mucho calor en verano y hace mucho frío en invierno?"
+},
+{
+"file": "b1541abeba26.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Lunes."
+},
+{
+"file": "f39b381643dc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Martes."
+},
+{
+"file": "b927fc8a8ef7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Miércoles."
+},
+{
+"file": "bc5aa077053e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Jueves."
+},
+{
+"file": "b63d7d408bb0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Viernes."
+},
+{
+"file": "76cb97da4960.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sábado."
+},
+{
+"file": "fb4b7c377153.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Domingo."
+},
+{
+"file": "2ec432e0721c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Enero."
+},
+{
+"file": "4a0341e0cf60.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Febrero."
+},
+{
+"file": "a56982148e1f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Marzo."
+},
+{
+"file": "37f0c2eb16b9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Abril."
+},
+{
+"file": "1e44092c1454.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mayo."
+},
+{
+"file": "38f3588921f2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Junio."
+},
+{
+"file": "a16d32a14f96.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Julio."
+},
+{
+"file": "620afe31d1cb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Agosto."
+},
+{
+"file": "696e58d6b5ae.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Septiembre."
+},
+{
+"file": "f0d34c549c79.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Octubre."
+},
+{
+"file": "eda707261426.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Noviembre."
+},
+{
+"file": "8c895e30140d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Diciembre."
+},
+{
+"file": "3d2f34aa6b13.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La primavera."
+},
+{
+"file": "6abecb8052ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El otoño."
+},
+{
+"file": "1455818e3600.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El verano."
+},
+{
+"file": "7538eccd226e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El invierno."
+},
+{
+"file": "635ba7231812.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo te oigo bien."
+},
+{
+"file": "414979655287.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Conduce tu padre bien?"
+},
+{
+"file": "25db09c19837.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros tenemos mucho frío."
+},
+{
+"file": "eb77948c61b2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué haces tú en clase?"
+},
+{
+"file": "ec0a8c9185ff.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Me cae bien este sombrero?"
+},
+{
+"file": "2b71131cf5b4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tiempo hace cuando hablan madre e hijo?"
+},
+{
+"file": "ad9b45c32277.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tiempo va a hacer por la tarde?"
+},
+{
+"file": "81383579867b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué van a hacer Carlos y su madre?"
+},
+{
+"file": "881f96ad2039.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué desea comprar Carlos?"
+},
+{
+"file": "eb98ed3ff13e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué quiere ir a la compra la madre?"
+},
+{
+"file": "4a4f11b758ff.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Adónde van los alumnos?"
+},
+{
+"file": "830f4b27f792.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tiempo hace en el lugar que van a visitar los alumnos?"
+},
+{
+"file": "d5cdfd25a831.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde deben estar los alumnos a eso de las ocho de la mañana?"
+},
+{
+"file": "a5a2c17df3fc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué tienen que tener los alumnos en su mano?"
+},
+{
+"file": "3cd6bfdd6ae4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cómo está Lucía?"
+},
+{
+"file": "90605e5d3180.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En general, hay una época de lluvia en verano."
+},
+{
+"file": "5e913eab411c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En verano hace mucho calor."
+},
+{
+"file": "15d0dd2e87f4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En primavera llueve tanto como en verano."
+},
+{
+"file": "4b8493921501.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En otoño caen las hojas de los árboles."
+},
+{
+"file": "950ed1d49af1.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Oye, Pablo, ¿qué has hecho este verano?"
+},
+{
+"file": "247234b80633.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Pues he hecho el camino a Santiago de Compostela."
+},
+{
+"file": "fb8e1e619603.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿En serio? ¿Lo has hecho tú solo?"
+},
+{
+"file": "36fbfd1ddae5.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Por supuesto que no. He ido con mi primo. ¿Y tú qué has hecho en las vacaciones? ¿Al final has ido de campamento?"
+},
+{
+"file": "f7c680481644.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Qué va! He estado trabajando todo el verano en mi pueblo."
+},
+{
+"file": "17893938f9fb.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "¿Y eso?"
+},
+{
+"file": "1f4633a94ae5.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Como sabes, mis padres tienen un bar. Pero la camarera está de baja por maternidad hace dos meses. Por eso he tenido que ayudarlos."
+},
+{
+"file": "9ba679b3866c.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "¿Qué tal ha sido la experiencia?"
+},
+{
+"file": "fc45c7762faa.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "He conocido a mucha gente. Ha sido un verano muy ocupado con mucho trabajo, pero también muy entretenido."
+},
+{
+"file": "6bc8d01cd14c.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "¡Hola, Begoña! ¡Sorpresa! Te mando esta postal desde Ponferrada. ¿Sabes qué? Estoy haciendo el camino con mi primo Nacho y su novia Pili. Como mis hermanos no han querido venirse conmigo, he hablado con Nacho y al final se ha apuntado Pili también. Son encantadores. Nos lo estamos pasando muy bien. Hemos llegado a Ponferrada hace nada. Ahora te estoy escribiendo en la cafetería cerca del albergue juvenil. Hemos empezado el camino en Burgos. Ha hecho muy buen tiempo estos días y hemos caminado mucho pasando por varias ciudades y pueblos pequeños con pocos habitantes. Como hace un calor sofocante de día, salimos a andar muy temprano por la mañana y descansamos cuando el sol pega fuerte por la tarde. Me duelen un poco los pies. Además, al bajar las colinas esta mañana, me he torcido el tobillo, pero creo que estoy bien. En el camino hemos conocido a mucha gente de diversas nacionalidades cada día, gente joven, gente mayor, viajeros profesionales, estudiantes en vacaciones como nosotros, etc. Muchos de los extranjeros hablan español. Comunicamos en español e inglés con ellos. Cuando no valen los dos idiomas, ya sabes, usamos gestos. Parece que nosotros los entendemos y ellos a nosotros. Te voy a contar más cosas en Madrid. Besos, Pablo."
+},
+{
+"file": "0cf64cabd547.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "a principios de"
+},
+{
+"file": "27b3b5865039.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "darse de baja"
+},
+{
+"file": "03649d8f8cf3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "baja maternal"
+},
+{
+"file": "93cac00a2442.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encontrar"
+},
+{
+"file": "0ac78cad83b5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nadie"
+},
+{
+"file": "9afad9c3bd70.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sustituir"
+},
+{
+"file": "35e1f6236f3e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Qué va!"
+},
+{
+"file": "fd87c0a83116.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pueblo"
+},
+{
+"file": "82d3df81f8de.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ocupado"
+},
+{
+"file": "de0c4301a254.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "entretenido"
+},
+{
+"file": "485e09b2405c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "camino"
+},
+{
+"file": "1981505e1303.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "peregrinación"
+},
+{
+"file": "00575a9e25eb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "primo"
+},
+{
+"file": "61732c35da3b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "novia"
+},
+{
+"file": "7027488d34bd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "campamento"
+},
+{
+"file": "2697f10c0627.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "experiencia"
+},
+{
+"file": "98b9defb8ab7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "turista"
+},
+{
+"file": "cb82c254c12c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dar a luz"
+},
+{
+"file": "5ccad556c045.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "al final"
+},
+{
+"file": "6987076515df.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sorpresa"
+},
+{
+"file": "b72abb673229.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mandar"
+},
+{
+"file": "7ffed2ee65b9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "postal"
+},
+{
+"file": "a90aae0a3663.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "colina"
+},
+{
+"file": "fae0ca142750.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "apuntarse"
+},
+{
+"file": "39c4806ee2c0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encantador"
+},
+{
+"file": "487cf24ec1b6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pasárselo bien"
+},
+{
+"file": "4a535b82ca30.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "albergue juvenil"
+},
+{
+"file": "6da5c30cf4d4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pasar por"
+},
+{
+"file": "e5ade6776135.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "valer"
+},
+{
+"file": "2ffc21b684bf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sofocante"
+},
+{
+"file": "789c096521c7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "de día"
+},
+{
+"file": "9f597f4a792e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pegar"
+},
+{
+"file": "4ea6d8913497.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "venirse con"
+},
+{
+"file": "18585229e737.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "torcerse el tobillo"
+},
+{
+"file": "44fabe544978.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "diverso"
+},
+{
+"file": "f0157ad471d5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nacionalidad"
+},
+{
+"file": "63530c53f635.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "viajero"
+},
+{
+"file": "2237c0304849.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "profesional"
+},
+{
+"file": "706e9b5dbdef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "comunicar"
+},
+{
+"file": "53d6f9947843.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vario"
+},
+{
+"file": "1723126b7b47.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "parece que…"
+},
+{
+"file": "0a397c3336ab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "gesto"
+},
+{
+"file": "9884af79bfbc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ajedrez"
+},
+{
+"file": "044d7caf9963.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "carne de vacuno"
+},
+{
+"file": "2ece0a9ff6bc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "jamón"
+},
+{
+"file": "6681023f6ca6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "coger un catarro"
+},
+{
+"file": "06b14954faef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "enterarse de"
+},
+{
+"file": "486d2ffaa86b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cordero"
+},
+{
+"file": "087fc38adc53.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "olvidarse"
+},
+{
+"file": "e99bbacbbf82.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bolso"
+},
+{
+"file": "0bd26121068a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "gasolina"
+},
+{
+"file": "3b790ad9cb5b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "maletín"
+},
+{
+"file": "8d63584da0f5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "fiebre"
+},
+{
+"file": "9f2b53a5053e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "discutir"
+},
+{
+"file": "04a84f2a0ea6.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Papá ha puesto su maletín sobre el sofá."
+},
+{
+"file": "9159a2fe282d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Este invierno ha nevado muy poco."
+},
+{
+"file": "9abbc4edc1cf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Has probado alguna vez el jamón ibérico?"
+},
+{
+"file": "dde2e7f15c55.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Este invierno hemos estado en Australia."
+},
+{
+"file": "c39d876eb701.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hoy han dormido doce horas."
+},
+{
+"file": "9afc8cca6a84.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "He aprendido a tocar el piano hace poco."
+},
+{
+"file": "ab8f52ab40db.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "España ha ganado la Copa de Europa."
+},
+{
+"file": "7f879fd7a472.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Qué ha dicho el jefe esta mañana?"
+},
+{
+"file": "111a9da255f4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Últimamente ha subido mucho la gasolina."
+},
+{
+"file": "b29dd46675c6.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El director ha muerto."
+},
+{
+"file": "4a9a9a85e0c3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Has hecho ya la cena?"
+},
+{
+"file": "c90b1b8f4117.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No, no la he hecho todavía."
+},
+{
+"file": "c2efe9b2fac9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Han viajado ustedes alguna vez en avión?"
+},
+{
+"file": "caf97802591d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, varias veces. Viajamos mucho por el negocio."
+},
+{
+"file": "50fc89a24a66.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Habéis estado alguna vez en América?"
+},
+{
+"file": "220e90b1d659.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí, varias veces, conocemos muchos países americanos."
+},
+{
+"file": "e6cf9a07310f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Has visto alguna vez películas españolas?"
+},
+{
+"file": "a78986fa800a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No, nunca. A mí no me interesan mucho las películas."
+},
+{
+"file": "95d6f38e1877.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿A qué hora te has despertado hoy?"
+},
+{
+"file": "a2c1c7445c7e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No me he duchado esta mañana."
+},
+{
+"file": "1274689ce297.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "El jefe se ha marchado ya hace una hora."
+},
+{
+"file": "d4e56db9161e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Muchos clientes se han quejado del servicio."
+},
+{
+"file": "63070972f20e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué ha hecho Pablo en las vacaciones de verano?"
+},
+{
+"file": "c9ea2154a125.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué ciudad ha sido el destino del viaje de Pablo?"
+},
+{
+"file": "953839f14e03.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Con quién ha ido Pablo a Santiago de Compostela?"
+},
+{
+"file": "ad9270427dd0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué ha hecho Juan en el pueblo?"
+},
+{
+"file": "4e2eaf7673f5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué ha tenido que trabajar Juan en el bar?"
+},
+{
+"file": "1a647c069d23.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿En qué idioma se comunican Pablo y sus compañeros con los extranjeros?"
+},
+{
+"file": "61393af1b331.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuándo han caminado? ¿Por la mañana o por la noche?"
+},
+{
+"file": "50551d639256.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué se ha torcido Pablo el tobillo?"
+},
+{
+"file": "be53e395e20e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde va a ver Pablo a Begoña después de las vacaciones?"
+},
+{
+"file": "dcde7937b097.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Escrito."
+},
+{
+"file": "f6b24085e4c2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Dicho."
+},
+{
+"file": "58c8a2c77eb7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Conocido."
+},
+{
+"file": "19ef057c5fc9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Comprado."
+},
+{
+"file": "071050319172.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Recibido."
+},
+{
+"file": "553f8e112bb8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Viajado."
+},
+{
+"file": "d1ff777a7861.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ido."
+},
+{
+"file": "98a2ba4271b9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Abierto."
+},
+{
+"file": "b66fb12921d8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Muerto."
+},
+{
+"file": "425a3fb7d2ab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Visto."
+},
+{
+"file": "f507c11104eb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hecho."
+},
+{
+"file": "9b1103226581.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Puesto."
+},
+{
+"file": "d6f1b0ff316e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vuelto."
+},
+{
+"file": "974088666ff7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Yo he cantado."
+},
+{
+"file": "803c10143510.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tú has comido."
+},
+{
+"file": "1bde62934e28.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Él ha vivido."
+},
+{
+"file": "9f5e88e15d67.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nosotros hemos hecho."
+},
+{
+"file": "2d0a390c1591.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Vosotros habéis visto."
+},
+{
+"file": "c44e262cd169.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ellos han dicho."
+},
+{
+"file": "6d4491e0d236.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¡Hola, Nuria! ¿Qué tal la Navidad?"
+},
+{
+"file": "2133cae8caf2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¡Hola, Manuel! Como siempre. Vinieron mis tíos y mis primos a la cena de Nochebuena y se quedaron en casa toda la noche. Una prima dio a luz a su hijo hace poco y yo me quedé al lado del bebé mirándolo todo el tiempo. Además, mi hermano José invitó a un amigo coreano de su clase."
+},
+{
+"file": "dc372b561ed1.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Entonces, ¿fue su primera fiesta de Nochebuena?"
+},
+{
+"file": "c38c9f9bfb3a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Pues, no. Dice que en Corea celebran la Navidad también."
+},
+{
+"file": "b421921f6d3c.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Ah, sí?"
+},
+{
+"file": "cc4687bbb59e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sí. Creo que se lo pasó muy bien con nosotros. Le contamos un poco de todo sobre la Navidad en España. Comimos y bebimos hasta muy tarde. Mi padre cocinó cordero asado."
+},
+{
+"file": "d3335d813f9b.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Carlos I de España nació como primogénito de Felipe I de Habsburgo y Juana I de Castilla. Fue rey de España desde 1516 hasta 1556 y al mismo tiempo emperador del Sacro Imperio Romano Germánico con el nombre de Carlos V de 1520 a 1558. Por vía paterna heredó los territorios austriacos y el derecho al trono imperial, y por vía materna heredó Castilla, Aragón, Navarra, Nápoles, Sicilia y el Nuevo Mundo. En su reinado, el poder político y militar de España estuvo en su auge. Carlos V no dejó de emprender campañas militares y las tropas españolas lucharon por todo el continente europeo y el mar Mediterráneo contra Francia, algunos países europeos protestantes, el Imperio otomano, etc. En la época de Felipe II, hijo y sucesor de Carlos V, la coalición de España y otros países católicos derrotó a la armada del Imperio otomano cerca de la ciudad griega de Lepanto en 1571 y frenó la expansión otomana hacia Europa occidental. Fue un acontecimiento muy importante en el desarrollo de la historia universal."
+},
+{
+"file": "88b4015de5ac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encontrarse con"
+},
+{
+"file": "8e89e219dd46.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "celebrar"
+},
+{
+"file": "73bfcdcc4f9a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "navidad"
+},
+{
+"file": "c1db07b26c60.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nochebuena"
+},
+{
+"file": "4f590896b659.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "asado"
+},
+{
+"file": "b10f76f9f524.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cocinar"
+},
+{
+"file": "ea3b72a322e1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "campaña militar"
+},
+{
+"file": "fc26d330319b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "emperador"
+},
+{
+"file": "572221932b45.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Sacro Imperio Romano Germánico"
+},
+{
+"file": "3eaac8fb6189.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "continente"
+},
+{
+"file": "9f534350a810.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "protestante"
+},
+{
+"file": "9efb3881b680.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sucesor"
+},
+{
+"file": "d299984a6bdd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "desarrollo"
+},
+{
+"file": "bd7b8fc2452f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "coalición"
+},
+{
+"file": "d27fb37bfac1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "trono"
+},
+{
+"file": "5c0fbe4063ff.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "derrotar"
+},
+{
+"file": "de054223b326.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "armada"
+},
+{
+"file": "72df172e719c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "auge"
+},
+{
+"file": "5bffb764ffea.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "primogénito"
+},
+{
+"file": "f1d60159a8ab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tropa"
+},
+{
+"file": "773d3bed0bda.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "paterno"
+},
+{
+"file": "b372af9f7222.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "materno"
+},
+{
+"file": "7e49563c4ecf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "heredar"
+},
+{
+"file": "a6d57462d1fc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "territorio"
+},
+{
+"file": "12af55b7177d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Imperio otomano"
+},
+{
+"file": "de61699c9054.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "imperial"
+},
+{
+"file": "48ee71ff1998.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "expansión"
+},
+{
+"file": "dfaca05ba01a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "emprender"
+},
+{
+"file": "cf2631f331c9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dejar de + 동사원형"
+},
+{
+"file": "9d514c85f3d7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "regar"
+},
+{
+"file": "aa3f130dcbf1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "construir"
+},
+{
+"file": "818ff7d5d450.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "arrancar"
+},
+{
+"file": "be616f4a2bad.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "actriz"
+},
+{
+"file": "c688d0f7cc8c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "estatua"
+},
+{
+"file": "9c71b51664c1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ladrar"
+},
+{
+"file": "1cfec397160d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "ciruela"
+},
+{
+"file": "e2d06423dcfa.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "reparar"
+},
+{
+"file": "61950610368d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "gemelo"
+},
+{
+"file": "06f7084a7c13.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "exportar"
+},
+{
+"file": "fd00780d6b8f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tubería"
+},
+{
+"file": "5f3d972f1cd8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "auricular"
+},
+{
+"file": "e2397cb341f1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Hablaste con el jefe?"
+},
+{
+"file": "6e5cb2286097.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ayer nos acostamos a las once y media."
+},
+{
+"file": "1195fb780bec.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Begoña recibió una postal."
+},
+{
+"file": "600dfb591fcb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los niños no volvieron a tiempo."
+},
+{
+"file": "6365336f2eac.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Regasteis las plantas?"
+},
+{
+"file": "659cdd78cf84.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Toqué la estatua de Don Quijote en la Plaza de España."
+},
+{
+"file": "19b978376b33.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Jugaste al baloncesto con tus amigos?"
+},
+{
+"file": "4b539ab34c2c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué novela leyeron ustedes la semana pasada?"
+},
+{
+"file": "ce9cbf92b37f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Oyó usted algo?"
+},
+{
+"file": "1756feda9ef6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los mayas construyeron la Pirámide del Sol."
+},
+{
+"file": "81f6b1140952.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Estuvimos en la reunión del lunes pasado."
+},
+{
+"file": "837064be79df.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "No pudieron arrancar el coche."
+},
+{
+"file": "a3ff583e21b6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Muchos soldados murieron en la Segunda Guerra Mundial."
+},
+{
+"file": "316da8290cf6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El domingo hicieron la compra para toda la semana."
+},
+{
+"file": "2a1b337f1c26.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Tuvieron que abandonar el lugar inmediatamente."
+},
+{
+"file": "6fcc1d80e955.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El tren es más rápido que el autobús."
+},
+{
+"file": "400d41a7f0e6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Manuel tiene más amigos que Julio."
+},
+{
+"file": "33a52b52da20.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ustedes son tan responsables como nosotros."
+},
+{
+"file": "ab805af64abb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Este año hace más calor que el año pasado."
+},
+{
+"file": "94c93b5c4cab.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los melocotones son más grandes que las ciruelas."
+},
+{
+"file": "7d391248e4b2.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Quiénes fueron a la fiesta de Nochebuena de Nuria?"
+},
+{
+"file": "862b98d346ef.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Con quién estuvo Nuria toda la noche?"
+},
+{
+"file": "ee65f7d88483.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Dónde conoció José al estudiante coreano?"
+},
+{
+"file": "708d078f75c0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué cocinó el padre de Nuria?"
+},
+{
+"file": "8bb762bdb92f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Se marcharon pronto los tíos de Nuria?"
+},
+{
+"file": "59b3c05194d4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué territorios heredó Carlos V de su madre?"
+},
+{
+"file": "a8aa10d0021d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿En qué año ocurrió la batalla de Lepanto?"
+},
+{
+"file": "f8a3a9e74928.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Luchó España sola contra el Imperio otomano en la batalla de Lepanto?"
+},
+{
+"file": "b62fbf22c8bc.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El año pasado tuvimos gemelos."
+},
+{
+"file": "3bfa90e28f8a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ayer por la tarde vinieron a reparar la tubería."
+},
+{
+"file": "02e8af7ceafd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La semana pasada llovió bastante."
+},
+{
+"file": "244ff0f21cbf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Exportasteis mucho el mes pasado."
+},
+{
+"file": "f64f17bead3b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "En el curso pasado aprendimos a tocar la guitarra."
+},
+{
+"file": "ae2f710d1ff7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ayer tuvimos pocos clientes en el restaurante."
+},
+{
+"file": "a3c79dc9512c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Wagner nació en 1813."
+},
+{
+"file": "51ab6ca45ee8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cervantes murió en 1616."
+},
+{
+"file": "2371a2c6d965.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Publicaron la primera gramática del español en 1492."
+},
+{
+"file": "5fa3c6066856.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Inauguraron el Museo Guggenheim Bilbao en 1997."
+},
+{
+"file": "5e8d71666216.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Coronaron a Felipe VI de España en 2014."
+},
+{
+"file": "373809e055ba.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Devolvieron Macao en 1999."
+},
+{
+"file": "b6eb55cf0741.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Miguel de Cervantes Saavedra fue un soldado, novelista, poeta y dramaturgo español."
+},
+{
+"file": "0576f76ad374.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Nació el 29 de septiembre de 1547 en Alcalá de Henares."
+},
+{
+"file": "7c21742cbc84.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cuando era pequeño, su familia se mudó a varias ciudades españolas."
+},
+{
+"file": "5e0a9e020404.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cervantes se estableció en Madrid en 1566."
+},
+{
+"file": "bb828f425426.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Viajó a Italia y participó en la batalla de Lepanto."
+},
+{
+"file": "de355b2201cd.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los turcos lo capturaron y lo llevaron a Argel."
+},
+{
+"file": "ad83a6ec0257.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cervantes pasó 5 años aprisionado allí."
+},
+{
+"file": "3a1184453332.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Después de regresar a España, escribió varias obras sin mucho éxito."
+},
+{
+"file": "ca9cd0a2a1df.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Finalmente, publicó la primera parte de El ingenioso hidalgo Don Quijote de la Mancha en 1605."
+},
+{
+"file": "76e4b2e8b38a.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "¿Qué hacías de joven?"
+},
+{
+"file": "56fc5616c8ef.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Trabajaba en una compañía multinacional en la capital. Pasaba 10 horas en la oficina frente al ordenador y entre papeles amontonados. A veces me quedaba trabajando hasta muy tarde. Esas tardes no tenía tiempo ni para cenar y a menudo me conformaba con un bocadillo. Claro, tomaba mucho café."
+},
+{
+"file": "3ec5c3e3a0a8.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Era muy duro, ¿verdad?"
+},
+{
+"file": "8676defd9561.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Sí, pero me gustaba mi trabajo. Luego pensé que no estaba suficiente tiempo con mi mujer y mis hijos. Y, físicamente, me sentía muy cansado porque no hacía ningún ejercicio tampoco."
+},
+{
+"file": "bf3c77dbae28.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Entonces, ¿qué hiciste?"
+},
+{
+"file": "01263f772059.mp3",
+"voice": "es-CO-GonzaloNeural",
+"text": "Dejé el trabajo. Nos mudamos a este pueblo. Al principio, mis hijos se quejaban, pero después se adaptaron pronto a la nueva vida. Hemos podido pasar más tiempo juntos. Por supuesto, perdí otras muchas cosas, pero no me arrepiento de esa decisión."
+},
+{
+"file": "7539d68a9033.mp3",
+"voice": "es-ES-AlvaroNeural",
+"text": "Pasamos por Rota, una ciudad histórica y famosa por su vino tinto. Esto me recuerda a Mistress Dawson. Ella siempre confunde los géneros de las palabras, y no la culpo, porque a veces me pasa a mí. Ella quería comprar tinta y fue a una tienda y pidió una botella de tinto. El comerciante le dijo que lo vendían en la tienda de al lado. Ella pasó allí y pidió su botella de tinto. Se la dieron, y Mrs. Dawson, en su casa, llenó el tintero y trató inútilmente de escribir. Estaba escandalizada por la mala calidad de la tinta española. Vimos en Rota otro castillo. Cuando íbamos a entrar por la puerta principal, nos hicimos a un lado para dejar paso no a un hidalgo ni a una infanta o cardenal, sino a un borrico con adornos y, además, con un sombrero de paja contra el sol. Entramos. Había un muro ancho de piedra con un perro dormitando al pie y dos lagartos sobre las piedras tomando el sol. En el castillo no vimos nada notable más que el borrico. Pero cuando salíamos, encontramos en un patio quince o veinte chicos entre ocho y diez años. Era el patio de la escuela."
+},
+{
+"file": "de1e9dbcc085.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "multinacional"
+},
+{
+"file": "0af57a3c5a5c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "amontonado"
+},
+{
+"file": "0ce3f03e162d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "adaptarse"
+},
+{
+"file": "eec02fc01292.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "físicamente"
+},
+{
+"file": "1c2a4a266833.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "sentirse + 형용사"
+},
+{
+"file": "baa147219eb8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mudarse"
+},
+{
+"file": "4015906f310c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "conformarse con"
+},
+{
+"file": "367416a71d73.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "arrepentirse de"
+},
+{
+"file": "2a5b465e3ba7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "decisión"
+},
+{
+"file": "29531d00f00f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hacerse a un lado"
+},
+{
+"file": "573b94880b1d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "recordar A a B"
+},
+{
+"file": "121e717be6ed.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "confundir"
+},
+{
+"file": "a2edb672b3b4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "género"
+},
+{
+"file": "b924e9594429.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "culpar"
+},
+{
+"file": "303218ae414a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tinta"
+},
+{
+"file": "b1f8da9eb307.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "comerciante"
+},
+{
+"file": "5238b1066225.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tintero"
+},
+{
+"file": "bb111cc0c867.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "tratar de + 동사원형"
+},
+{
+"file": "c041a67fec2e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "escandalizado"
+},
+{
+"file": "4e7527a5bc50.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "(vino) tinto"
+},
+{
+"file": "be62dec6935d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dejar paso"
+},
+{
+"file": "832fe8b7c44a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hidalgo"
+},
+{
+"file": "9ae2abed95d7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "infanta"
+},
+{
+"file": "7c72a7ae44c5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cardenal"
+},
+{
+"file": "5c754ddfa0f6.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "borrico"
+},
+{
+"file": "1e595c73a652.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dormitar"
+},
+{
+"file": "8131ef0b6cbb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "al pie"
+},
+{
+"file": "9278dab1df70.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mercado"
+},
+{
+"file": "e30364566eba.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "travieso"
+},
+{
+"file": "8267ef9b5c1e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "oler"
+},
+{
+"file": "1fbb08dbbaf0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "collar"
+},
+{
+"file": "9e54923d14bb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cliente"
+},
+{
+"file": "7fe7342a6b67.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "documento"
+},
+{
+"file": "5b8b94190653.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cultivar"
+},
+{
+"file": "148de0a3e8ee.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "patata"
+},
+{
+"file": "26545f03e9c4.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dar abrazos"
+},
+{
+"file": "c94418cf2b2e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "empujar"
+},
+{
+"file": "66281f81b21d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mascota"
+},
+{
+"file": "a0cc04de6ad9.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "poner la mesa"
+},
+{
+"file": "389d0a2d4a71.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "De niños, iba al pueblo de mis abuelos cada verano."
+},
+{
+"file": "3e170dcb3010.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Leía novelas de aventuras a menudo."
+},
+{
+"file": "daee4e52053b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Antes la gente iba al teatro con más frecuencia."
+},
+{
+"file": "4d54d62f4f38.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Hemingway venía por la tarde, se sentaba en esa mesa y escribía sus obras."
+},
+{
+"file": "72c8f1109f9f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mi hermana se acostaba siempre antes de las 11 de la noche."
+},
+{
+"file": "b148d1754871.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Muchas veces nos decía que se acercaba el invierno."
+},
+{
+"file": "67004eefc7e7.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Antes llovía más que ahora."
+},
+{
+"file": "da7fb61e108c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cristina llevaba un vestido azul y un collar precioso en la fiesta."
+},
+{
+"file": "f1169e84a2c0.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los romanos cultivaban uvas para hacer vino."
+},
+{
+"file": "ae0d5925972c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Unas veces jugábamos al ajedrez y otras a las cartas."
+},
+{
+"file": "4df2df087297.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Cuando eran jóvenes, iban mucho a los conciertos."
+},
+{
+"file": "23ef8b3f517e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El lunes pasado tuvimos una reunión importante con los clientes."
+},
+{
+"file": "16fa4e60f06a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Ayer volví pronto a casa porque estaba enfermo."
+},
+{
+"file": "d5a20594e0e1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿A qué hora saliste ayer por la mañana?"
+},
+{
+"file": "eccabf84adfb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué compraron ustedes el sábado pasado?"
+},
+{
+"file": "0a130679bdbf.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Julio y Pedro entregaron el documento la semana pasada."
+},
+{
+"file": "4fac34fa1933.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "La chica se torció el tobillo al bajar las escaleras."
+},
+{
+"file": "dbc946d94a76.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Veíais a muchos actores cuando vivíais en Los Ángeles?"
+},
+{
+"file": "0c80389a0939.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Cuántos años tenías cuando conociste a tu mujer?"
+},
+{
+"file": "ea6b031abf35.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué le dijo usted cuando se encontró con Luis?"
+},
+{
+"file": "70f105d186b5.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "El hombre pasaba siempre por esta calle sobre las 8 de la mañana, pero aquel día apareció casi a las 9."
+},
+{
+"file": "401bd1067888.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Normalmente la actriz tomaba café por la mañana, pero tomó té aquella mañana."
+},
+{
+"file": "910616945411.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Todos los años mis amigos me invitaban a varias fiestas, pero el año pasado no me dijo nada nadie."
+},
+{
+"file": "e19ea005e151.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Siempre nos mandaban patatas de primera categoría, pero el año pasado dejaron de cultivar patatas."
+},
+{
+"file": "403bad62a5d3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Normalmente me daba abrazos cuando me veía. Pero aquella tarde no quiso ni mirarme."
+},
+{
+"file": "17b8c62f8bdb.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿En qué trabajaba José cuando era joven?"
+},
+{
+"file": "1f6ca2bc608f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Podía José regresar temprano a casa todos los días?"
+},
+{
+"file": "acba0b2a4b57.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué decidió José dejar su trabajo y mudarse al pueblo con su familia?"
+},
+{
+"file": "19c62e54d4a3.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Al principio estaban contentos sus hijos con la nueva vida?"
+},
+{
+"file": "30b873ff7f47.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Está arrepentido José de su decisión de dejar el trabajo?"
+},
+{
+"file": "e89efbcc338b.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué quería comprar Ms. Dawson y qué compró al final?"
+},
+{
+"file": "2a9efae8c022.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué pensó Ms. Dawson sobre la tinta española?"
+},
+{
+"file": "c03ac7a99659.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Por qué se hicieron al lado cuando intentaba entrar en el castillo?"
+},
+{
+"file": "efd1a5af381e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "¿Qué había dentro del castillo?"
+},
+{
+"file": "c3d212860118.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "bebía"
+},
+{
+"file": "e2268f9ada47.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "subieron"
+},
+{
+"file": "9e06c0500e6e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "regábamos"
+},
+{
+"file": "a336b1a7bd88.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cacé"
+},
+{
+"file": "c8c51de486e8.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "escribíamos"
+},
+{
+"file": "bcc4c76b43d1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "abrió"
+},
+{
+"file": "64d11c53deae.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "saqué"
+},
+{
+"file": "7eb7287e432e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "borraban"
+},
+{
+"file": "2f9b70fc5604.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cerrasteis"
+},
+{
+"file": "02fc7f404083.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "compramos"
+},
+{
+"file": "b7ff10052a0d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "encendíais"
+},
+{
+"file": "e98807afc74f.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "volviste"
+},
+{
+"file": "fa7d9860b36c.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "fue"
+},
+{
+"file": "8a680effa875.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "llamaban"
+},
+{
+"file": "d417df6ff270.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "pudiste"
+},
+{
+"file": "b44b01994e87.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "eras"
+},
+{
+"file": "c8bd02b1b9a1.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "mostramos"
+},
+{
+"file": "2facb92b2042.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "vendió"
+},
+{
+"file": "c0878ca2c165.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "elegía"
+},
+{
+"file": "1808793d447a.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "hablábamos"
+},
+{
+"file": "9aaccb45d572.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "dijiste"
+},
+{
+"file": "5cf70acdeb35.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "nevaba"
+},
+{
+"file": "9baec8ab8125.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "había"
+},
+{
+"file": "a0f290f3769e.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "cruzábamos"
+},
+{
+"file": "3a593e91532d.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "empujasteis"
+},
+{
+"file": "5d7b73a74944.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Los dos chicos hablaban en la estación cuando llegó el metro."
+},
+{
+"file": "2831671c6083.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Daba un paseo por el parque cuando se acercó un perro."
+},
+{
+"file": "736a3108b676.mp3",
+"voice": "es-ES-ElviraNeural",
+"text": "Mientras jugaba al baloncesto, se rompió un brazo."
+}
+]
